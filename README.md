@@ -54,7 +54,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smfahad19/smfahad19/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smfahad19/smfahad19/output/pacman-contribution-graph.svg">
-<img alt="Pacman Contribution Graph" src="https://github.com/smfahad19/smfahad19/raw/output/pacman-contribution-graph.svg" />
+<img alt="Pacman Contribution Graph" src="[https://github.com/smfahad19/smfahad19/raw/output/pacman-contribution-graph.svg](https://media.licdn.com/dms/image/v2/D5612AQH78Zx1aeUQ1A/article-cover_image-shrink_720_1280/B56ZVfD_NFGoAI-/0/1741056642519?e=2147483647&v=beta&t=SJMXtVuX20kLKZmWQdrYf0IdpoMyrlIYD_5ogxvJ90o)" />
 </picture>
 
 ###
