@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
-  <b>Syed Muhammad Fahad</b>
+  Syed Muhammad Fahad
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN & SERN | Python | Java | C++ | Web & App Development</h3>
@@ -11,96 +11,84 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,framer,redux,contextapi,nodejs,express,flask,django,mongodb,postgres,mysql,git,github,postman,figma,jira,linux,netlify,vercel,docker,heroku" />
-</p>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,framer,redux,contextapi,nodejs,express,flask,django,mongodb,postgres,mysql,git,github,postman,figma,jira,linux,netlify,vercel,docker,heroku" />
 </p>
+
+### 💡 Skill Levels (Animated Progress Bars)
+
+- **React.js**: ![100%](https://progress-bar.dev/100/?title=React)  
+- **Node.js**: ![95%](https://progress-bar.dev/95/?title=Node)  
+- **JavaScript**: ![90%](https://progress-bar.dev/90/?title=JS)  
+- **Python/Flask**: ![85%](https://progress-bar.dev/85/?title=Python+Flask)  
+- **Next.js**: ![80%](https://progress-bar.dev/80/?title=NextJS)  
+- **Tailwind CSS**: ![90%](https://progress-bar.dev/90/?title=Tailwind)  
+- **Redux/ContextAPI**: ![85%](https://progress-bar.dev/85/?title=StateMgmt)  
+- **Databases (MongoDB/MySQL/Postgres)**: ![85%](https://progress-bar.dev/85/?title=DBs)  
 
 ---
 
-## 💼 Experience (Animated)
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD4bH6d2EEv4wGk/giphy.gif" width="600"/>
-</p>
+## 💼 Experience
 
 ### Full Stack Developer — Ezitech Institute
 **Jan 2024 - Present**  
-- Developed dashboards, blogs, and e-commerce platforms  
-- Designed & implemented REST APIs with optimized backend logic  
+- Built dashboards, blogs & e-commerce platforms  
+- Designed & implemented REST APIs  
 - Agile workflow with Jira & GitHub Projects  
 - Deployed apps on Netlify, Vercel & Heroku  
 
 ### Software Development Intern — ZertTech
 **Jun 2023 - Dec 2023**  
-- Built multiple full-stack applications with modern UI/UX  
-- Implemented JWT authentication & role-based access control  
-- Followed SDLC, GitHub workflow & CI/CD pipelines  
+- Developed multiple full-stack applications  
+- Implemented JWT authentication & role-based access  
+- Followed SDLC & CI/CD pipelines  
 
 ### Freelance Developer — HashmMeer Leathers
 **Mar 2023 - May 2023**  
-- Created responsive e-commerce website with cart & checkout  
-- Optimized frontend for performance and speed  
+- Developed responsive e-commerce website  
+- Optimized frontend UI for speed & performance  
 
 ---
 
-## 🎮 Projects & Mini Games (Animated GIFs)
-<p align="center">
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.mp4" width="150"/>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="150"/>
-</p>
+## 🎮 Projects & Mini Games
 
-- Snake Game (JS, HTML, CSS)  
-- Typing Speed Game (React, Tailwind CSS)  
-- Pokemon-Style Game (JS, HTML, CSS)  
-- 2048 Game (React, Tailwind)  
-- Calculator App (JS, HTML, CSS)  
-- Blog Application (MERN)  
-- E-Commerce Website (MERN, Tailwind)  
-- Banking Application (MERN)  
+| Project | Tech | Progress |
+|---------|------|---------|
+| Snake Game | JS, HTML, CSS | ![100%](https://progress-bar.dev/100/?title=SnakeGame) |
+| Typing Speed Game | React, Tailwind | ![90%](https://progress-bar.dev/90/?title=TypingGame) |
+| Pokemon-Style Game | JS, HTML, CSS | ![85%](https://progress-bar.dev/85/?title=PokemonGame) |
+| 2048 Game | React, Tailwind | ![95%](https://progress-bar.dev/95/?title=2048) |
+| Calculator App | JS, HTML, CSS | ![90%](https://progress-bar.dev/90/?title=Calculator) |
+| Blog Application | MERN | ![95%](https://progress-bar.dev/95/?title=Blog) |
+| E-Commerce Website | MERN, Tailwind | ![95%](https://progress-bar.dev/95/?title=ECommerce) |
+| Banking Application | MERN | ![90%](https://progress-bar.dev/90/?title=Banking) |
 
 ---
 
-## 🏆 Achievements (Animated)
-<p align="center">
-<img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="150"/>
-</p>
-
-- Delivered production-ready MERN & SERN applications  
+## 🏆 Achievements
+- Delivered production-ready MERN & SERN apps  
 - Implemented CI/CD pipelines during internships  
 - Contributed to open-source projects  
 - Active GitHub streak & coding challenges  
-- Presented projects at webinars & tech meetups  
+- Presented projects in webinars & tech meetups  
 
 ---
 
-## 🎯 Currently Learning (Animated)
+## 🎯 Currently Learning
 <p align="center">
 <img src="https://skillicons.dev/icons?i=typescript,nextjs,redux,python,flask,tailwind,framer" />
-<img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 🎨 Hobbies & Interests (Animated)
-<p align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="150"/>
-</p>
-
-- Building web & mobile apps  
-- Learning AI & ML basics  
-- Playing chess & coding mini-games  
-- Writing technical blogs  
-- Contributing to open-source communities  
+## 🎨 Hobbies & Interests
+- Web & mobile development  
+- AI & ML basics  
+- Chess & coding mini-games  
+- Technical blogging & tutorials  
+- Open-source contributions  
 
 ---
 
