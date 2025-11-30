@@ -3,18 +3,23 @@
   <b>Syed Muhammad Fahad</b>
 </h1>
 
-<h3 align="center">🚀 Software Engineering Student | MERN & SERN Stack Developer | Python (Flask) | Java | C++</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & SERN Stack | Python (Flask) | Java | C++ | Web & App Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Always+Learning+New+Skills;Backend+APIs+%26+Front-End+UI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Backend+APIs+%26+Front-End+UI;Always+Learning+New+Skills" />
 </p>
 
 ---
 
-## 🌐 Live Portfolios
+## 🌐 Live Projects & Portfolios
 <div align="center">
+[![Portfolio](https://img.shields.io/badge/Nexorax-Portfolio-000?style=for-the-badge)](https://nexorax.org)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-syedfahad.netlify.app-000?style=for-the-badge)](https://syedfahad.netlify.app)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-nexorax.org-000?style=for-the-badge)](https://nexorax.org)
+[![2048 Game](https://img.shields.io/badge/Game-2048-000?style=for-the-badge)](https://2048-game.vercel.app)  
+[![Calculator App](https://img.shields.io/badge/Calculator-App-000?style=for-the-badge)](https://calculator-app.vercel.app)  
+[![Blog Application](https://img.shields.io/badge/Blog-App-000?style=for-the-badge)](https://blog-app.vercel.app)  
+[![E-Commerce](https://img.shields.io/badge/E-Commerce-000?style=for-the-badge)](https://ecommerce-theme.vercel.app)  
+[![Banking App](https://img.shields.io/badge/Banking-App-000?style=for-the-badge)](https://banking-app.vercel.app)
 </div>
 
 ---
@@ -35,22 +40,22 @@
 
 ### **Frontend**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,framer" />
 </p>
 
 ### **Backend**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,java" />
 </p>
 
 ### **Databases**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### **Tools**
+### **State Management & Others**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vite,jira,linux" />
+<img src="https://skillicons.dev/icons?i=redux,contextapi,git,github,postman,figma,vite,jira,linux" />
 </p>
 
 ### **Cloud & DevOps**
@@ -63,85 +68,65 @@
 ## 💼 Experience
 
 ### 🧑‍💻 Full Stack Developer — Ezitech Institute
-**Duration:** Jan 2024 - Present  
-**Tech:** MERN, SERN, Tailwind, Node.js, Express.js, MongoDB, MySQL  
-**Responsibilities:**
+**Jan 2024 - Present**  
+**Tech:** MERN, SERN, Node.js, Express, MongoDB, MySQL, Tailwind, Next.js, Redux, Framer Motion  
 - Developed production-level MERN & SERN projects  
-- Built dashboards, blog systems, secure authentication  
-- Designed and implemented REST APIs  
-- Optimized database queries and backend logic  
-- Agile workflow using Jira & GitHub projects  
-- Maintained client communication and deployed apps  
+- Built dashboards, blog systems, e-commerce platforms  
+- Designed & implemented REST APIs with optimized backend logic  
+- Managed Agile workflow using Jira & GitHub projects  
+- Deployed multiple apps to Netlify, Vercel & Heroku  
 
 ### 🧑‍💻 Software Development Intern — ZertTech
-**Duration:** Jun 2023 - Dec 2023  
+**Jun 2023 - Dec 2023**  
 **Tech:** React, Node.js, Flask, JWT, REST APIs  
-**Responsibilities:**
-- Built 6 full-stack applications with modern UI  
-- Implemented JWT auth, roles & permissions  
-- Used SDLC, GitHub workflow, and CI/CD pipelines  
-- Assisted in project planning and deployment  
+- Built 6 full-stack applications with modern UI/UX  
+- Implemented JWT authentication & role-based access control  
+- Applied SDLC, GitHub workflow & CI/CD pipelines  
 
 ### 🛍 Freelance Developer — HashmMeer Leathers
-**Duration:** Mar 2023 - May 2023  
+**Mar 2023 - May 2023**  
 **Tech:** React, Node.js, Tailwind, MongoDB  
-**Responsibilities:**
-- Developed business website with product management system  
-- Designed responsive, fast, modern UI  
-- Integrated e-commerce features like cart, checkout, and order management  
+- Developed responsive e-commerce website with cart & checkout  
+- Optimized frontend UI for speed and performance  
 
 ---
 
-## 🎮 Mini Games & Fun Projects
+## 🎮 Fun & Mini Projects
 
-### 🐍 Snake Game
-- **Tech:** JavaScript, HTML, CSS  
-- **Play Here:** [Live Demo](https://snake-game-five-taupe.vercel.app/)  
-- **GIF Preview:**  
-  <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400"/>
-  </p>
-
-### ⌨️ Typing Speed Game
-- **Tech:** React, Tailwind CSS  
-- **GIF Preview:**  
-  <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-  </p>
-
-### ⚡ Pokemon-Style Game (Video Preview)
-- **Tech:** JavaScript / HTML / CSS (Demo video only)  
-- **Video Preview:**  
-  <p align="center">
-  <video width="400" controls>
-    <source src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
-  </p>
+| Project | Tech | Live Demo / Preview |
+|---------|------|-------------------|
+| Snake Game | JS, HTML, CSS | [Play](https://snake-game-five-taupe.vercel.app) |
+| Typing Speed Game | React, Tailwind CSS | GIF Preview ![Typing](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
+| Pokemon-Style Game | JS, HTML, CSS | [Video Preview](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.mp4) |
+| 2048 Game | React, Tailwind | [Play](https://2048-game.vercel.app) |
+| Calculator | JS, HTML, CSS | [Try](https://calculator-app.vercel.app) |
+| Blog Application | MERN | [Live](https://blog-app.vercel.app) |
+| E-Commerce Website | MERN, Tailwind | [Visit](https://ecommerce-theme.vercel.app) |
+| Banking Application | MERN | [View](https://banking-app.vercel.app) |
 
 ---
 
 ## 🏆 Achievements
-- Completed multiple full-stack projects in MERN & SERN  
-- Implemented CI/CD pipelines for internships  
-- Contributed to open-source projects on GitHub  
-- Consistently active in GitHub streak & coding challenges  
-- Presented projects in local tech meetups and webinars  
+- Delivered multiple production-ready MERN & SERN applications  
+- Implemented CI/CD pipelines during internships  
+- Contributed to open-source GitHub projects  
+- Maintained active GitHub streak and coding challenges  
+- Presented projects in webinars & local tech meetups  
 
 ---
 
 ## 🎯 Currently Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,redux,python,flask,tailwind" />
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,redux,python,flask,tailwind,framer" />
 </p>
 
 ---
 
 ## 🎨 Hobbies & Interests
-- Building web apps & experimenting with new tech  
-- Learning AI & ML basics  
-- Playing chess & coding mini games  
-- Blogging technical tutorials  
+- Web & app development, experimenting with new tech  
+- AI & ML basics  
+- Chess & coding mini-games  
+- Technical blogging & tutorials  
 - Contributing to open-source communities  
 
 ---
