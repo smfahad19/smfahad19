@@ -3,10 +3,10 @@
   <b>Syed Muhammad Fahad</b>
 </h1>
 
-<h3 align="center">🚀 Software Engineering Student | MERN & SERN Stack Developer</h3>
+<h3 align="center">🚀 Software Engineering Student (5th Semester) | MERN & SERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=5th+Semester+%40+Superior+University;Full-Stack+Developer;MERN+%26+SERN+Expert;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Always+Learning+%26+Innovating" />
 </p>
 
 ---
@@ -15,10 +15,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=radical&hide_border=true" height="170" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=radical&hide_border=true" height="140" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=radical&hide_border=true" height="150" />
 
 <br/><br/>
 
@@ -59,20 +61,20 @@
 
 ### 🧑‍💻 **Full Stack Developer — Ezitech Institute**
 - Currently working as a **Full Stack Developer**
-- Building **professional-level MERN & SERN stack applications**
-- Working on **blog apps, dashboards, APIs, authentication**
-- Hands-on **team collaboration**, Agile workflow, Jira usage
-- Contributing to **real-world client projects**
+- Building **production-level MERN & SERN applications**
+- Blog systems, dashboards, authentication, custom APIs
+- Working in a **professional Agile team** with Jira
+- Contributing to **client-based & internal projects**
 
 ### 🧑‍💻 **Software Development Intern — ZertTech Software House**
-- Built **3 real-world full-stack applications**
-- Implemented **REST APIs, authentication, dashboards**
-- Learned professional **SDLC + Agile + GitHub workflow**
+- Built **3 full-stack applications** end-to-end  
+- Implemented **JWT auth, REST APIs, dashboards**  
+- Gained experience in **SDLC, Agile, GitHub workflows**
 
 ### 🏢 **Freelance Developer — HashmMeer Leathers**
-- Designed business website & e-commerce store
-- Custom product management + admin system
-- Delivered fully responsive UI
+- Developed business website + e-commerce features  
+- Custom product management system  
+- Delivered optimized UI/UX with clean responsive design  
 
 ---
 
@@ -80,28 +82,29 @@
 
 ### 🌐 **Portfolio Website**
 - React + Tailwind  
-- Beautiful UI + smooth animations  
+- Modern UI, animations, optimized layout  
 
 ### 📝 **Blog Application (MERN + SERN)**
-- Built using **both MERN and SERN stacks**
-- Authentication, roles, authorization
-- Create, update, like, dislike posts
-- Admin dashboard + attractive UI
+- Authentication, roles, authorization  
+- Like/dislike system  
+- Admin dashboard  
+- Clean & scalable architecture  
 
 ### 💬 **Real-time Chat App**
 - Socket.io + Node.js  
-- Live messaging and online users  
+- Online users, live conversations  
 
 ### 🛒 **E-commerce Web App**
-- Product catalog, filters  
-- Cart & checkout system  
+- Product catalog, filter system  
+- Cart, checkout & order flow  
 
 ### 🏨 **Hotel Booking System**
-- Room booking, availability  
-- Payment integration ready  
+- Room availability, booking  
+- Payment-ready architecture  
 
-### 📚 **Many More Apps**
-- Dozens of practice + professional projects in JS, React, Node.js
+### 📚 **More Projects**
+- Multiple full-stack apps in MERN/SERN  
+- Practice + production-level systems  
 
 ---
 
