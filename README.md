@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">
   <b>Syed Muhammad Fahad</b>
 </h1>
 
 <h3 align="center">🚀 Software Engineering Student (5th Semester) | MERN & SERN Stack Developer | Python (Flask) | Java | C++</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Flask+Developer;Java+%26+C%2B%2B+Programmer;Building+Scalable+Web+Apps;Always+Learning+%26+Innovating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Flask+Developer;Java+%26+C%2B%2B+Programmer;Building+Scalable+Web+Apps;Always+Learning+%26+Innovating" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=radical&hide_border=true" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=radical&hide_border=true" height="170" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=radical&hide_border=true" height="150" />
 
@@ -75,7 +75,7 @@
 - Blog systems, dashboards, secure authentication  
 - API development + database optimization  
 - Agile (Scrum) — Jira, GitHub workflows  
-- Production-level & client-based works  
+- Production-level & client-based work  
 
 ### 🧑‍💻 **Software Development Intern — ZertTech**
 - 3 full-stack apps  
@@ -107,7 +107,7 @@
 
 ### 💬 **Real-time Chat App**
 - Socket.io  
-- Real-time messaging  
+- Live messaging  
 
 ### 🏨 **Hotel Booking System**
 - Rooms, booking, availability engine  
@@ -119,13 +119,13 @@
 
 ### 🐍 **Python Flask Projects**
 - REST APIs  
-- Authentication systems  
+- Auth systems  
 - Mini dashboards  
 
-### 💻 **Java & C++ Projects**
-- OOP applications  
+### 💻 **Java & C++ Programs**
+- OOP  
 - Data structures  
-- Console-based logic programs  
+- Logic-building apps  
 
 ---
 
@@ -135,7 +135,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smfahad19)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://smfahad.dev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad@example.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad@example.com)
 
 </div>
 
