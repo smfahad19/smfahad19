@@ -3,29 +3,21 @@
   <b>Syed Muhammad Fahad</b>
 </h1>
 
-<h3 align="center">🚀 Software Engineering Student (5th Semester) | MERN & SERN Stack Developer</h3>
+<h3 align="center">🚀 Software Engineering Student (5th Semester) | MERN & SERN Stack Developer | Python (Flask) | Java | C++</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Game+Development+Enthusiast;Always+Learning+%26+Innovating" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Flask+Developer;Java+%26+C%2B%2B+Programmer;Building+Scalable+Web+Apps;Always+Learning+%26+Innovating" />
 </p>
 
 ---
 
-## 🎮 Game Development (New)
-### 👾 **Game Developer (Beginner Level)**
-- Learning **JavaScript Game Development**
-- Working on **small logic-based browser games**
-- Understanding **game loops, sprites, animations**
-- Interested in **2D game physics + real-time logic**
-
-### 🕹️ **Games I Have Built**
-- **Tic Tac Toe (JS + HTML/CSS)**  
-- **Snake Game (Canvas API)**  
-- **Flappy Bird Clone (Physics + Collision Detection)**  
-- **Color Guessing Game**  
-- **Memory Card Flip Game**
-
-> ⚡ More advanced games coming soon (using **Three.js** & **Phaser.js**)!
+## 🧑‍💻 About Me
+- 5th semester **Software Engineering Student**
+- 6+ months experience in **Full Stack Development**
+- Hands-on experience with  
+  **C++**, **Java**, **JavaScript**, **Python (Flask)**  
+- Strong backend logic + API development  
+- Worked on **production-level & client-based projects**
 
 ---
 
@@ -50,31 +42,27 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Game Tools (New)**
-![Canvas](https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge&logo=html5&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser.js-1A73E8?style=for-the-badge&logo=javascript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-645CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -83,41 +71,61 @@
 ## 💼 Experience
 
 ### 🧑‍💻 **Full Stack Developer — Ezitech Institute**
-- Working as a **Full Stack Developer**
-- Production-level **MERN & SERN** apps
-- Blog systems, dashboards, custom APIs
-- Agile team (Scrum + Jira)
-- Client & in-house product development
+- MERN & SERN stack development  
+- Blog systems, dashboards, secure authentication  
+- API development + database optimization  
+- Agile (Scrum) — Jira, GitHub workflows  
+- Production-level & client-based works  
 
 ### 🧑‍💻 **Software Development Intern — ZertTech**
-- Built **3 full-stack apps**
-- JWT auth, REST APIs, dashboards
-- Learned **SDLC, Agile, GitHub CI/CD**
+- 3 full-stack apps  
+- JWT auth, REST APIs, roles + permissions  
+- CI/CD, SDLC, project planning  
 
 ### 🏢 **Freelance Developer — HashmMeer Leathers**
-- Business website + e-commerce modules
+- Business website + e-commerce features  
 - Custom product management system  
-- Clean, modern & responsive UI
+- Responsive + modern UI  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 **Portfolio Website**
+- React + Tailwind  
+- Modern UI, animations, responsive  
+
 ### 📝 **Blog Application (MERN + SERN)**
-### 💬 **Real-time Chat App**
+- Authentication, role-based access  
+- Admin dashboard  
+- Secure APIs  
+
 ### 🛒 **E-commerce Web App**
+- Product management  
+- Filters & search  
+- Cart + checkout + order flow  
+
+### 💬 **Real-time Chat App**
+- Socket.io  
+- Real-time messaging  
+
 ### 🏨 **Hotel Booking System**
-### 🎮 **Snake Game (JS + Canvas)**
-### 🎮 **Flappy Bird Clone**
-### 🎮 **Memory Card Game**
+- Rooms, booking, availability engine  
 
----
+### 🔥 **BehindEv Web Application**
+- Full business logic  
+- Admin + User functionality  
+- Secure backend  
 
-## 📈 GitHub Metrics
-<div align="center">
-  <img src="https://metrics.lecoq.io/smfahad19?template=classic&base=header,activity,repositories,metadata&config.timezone=Asia/Karachi" />
-</div>
+### 🐍 **Python Flask Projects**
+- REST APIs  
+- Authentication systems  
+- Mini dashboards  
+
+### 💻 **Java & C++ Projects**
+- OOP applications  
+- Data structures  
+- Console-based logic programs  
 
 ---
 
@@ -137,7 +145,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Phaser.js](https://img.shields.io/badge/Phaser.js-1A73E8?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
