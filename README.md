@@ -92,48 +92,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-- **Tech:** React, Tailwind CSS, Framer Motion  
-- **Features:** Modern UI, responsive design, animations, contact form  
-- **Link:** [Live Demo](https://syedfahad.netlify.app)
-
-### 📝 Blog Application (MERN + SERN)
-- **Tech:** React, Node.js, Express, MongoDB  
-- **Features:** User authentication, admin panel, role-based access, secure REST APIs  
-- **Link:** [GitHub Repo](https://github.com/smfahad19/blog-app)
-
-### 🛒 E-commerce Web App
-- **Tech:** MERN Stack, Tailwind CSS  
-- **Features:** Product catalog, filters & search, shopping cart, checkout flow  
-- **Link:** [Live Demo](https://nexorax.org)
-
-### 💬 Real-time Chat App
-- **Tech:** React, Node.js, Socket.io  
-- **Features:** Real-time messaging, notifications, online/offline status  
-- **Link:** [Live Demo](#)
-
-### 🏨 Hotel Booking System
-- **Tech:** MERN + Tailwind CSS  
-- **Features:** Room availability engine, booking system, responsive UI  
-- **Link:** [Live Demo](#)
-
-### 🔥 Flask Projects
-- **Tech:** Python, Flask, SQLAlchemy  
-- **Features:** REST APIs, authentication, mini dashboards  
-- **Link:** [GitHub Repo](#)
-
-### 💻 Java & C++ Projects
-- **Tech:** Java, C++  
-- **Features:** OOP applications, data structures, console-based programs  
-- **Link:** [GitHub Repo](#)
-
----
-
 ## 🎮 Mini Games & Fun Projects
 
-### Snake Game
+### 🐍 Snake Game
 - **Tech:** JavaScript, HTML, CSS  
 - **Play Here:** [Live Demo](https://snake-game-five-taupe.vercel.app/)  
 - **GIF Preview:**  
@@ -141,21 +102,19 @@
   <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400"/>
   </p>
 
-### Typing Speed Game
+### ⌨️ Typing Speed Game
 - **Tech:** React, Tailwind CSS  
-- **Link:** [Live Demo](#)  
 - **GIF Preview:**  
   <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
   </p>
 
-### Puzzle Game
-- **Tech:** JavaScript, HTML, CSS  
-- **Link:** [Live Demo](#)  
+### ⚡ Pokemon-Style Game (Video Preview)
+- **Tech:** JavaScript / HTML / CSS (Demo video only)  
 - **Video Preview:**  
   <p align="center">
   <video width="400" controls>
-    <source src="https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4" type="video/mp4">
+    <source src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
   </p>
