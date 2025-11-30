@@ -13,27 +13,27 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
+**Frontend**  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap,framer" />
 </p>
 
-**Backend:**  
+**Backend**  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,java" />
 </p>
 
-**Databases:**  
+**Databases**  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-**State Management & Tools:**  
+**State Management & Tools**  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=redux,contextapi,git,github,postman,figma,jira,linux" />
 </p>
 
-**Cloud & DevOps:**  
+**Cloud & DevOps**  
 <p align="center">
 <img src="https://skillicons.dev/icons?i=netlify,vercel,docker,heroku" />
 </p>
@@ -44,43 +44,43 @@
 
 ### Full Stack Developer — Ezitech Institute
 **Jan 2024 - Present**  
-- Built dashboards, blog systems, and e-commerce platforms  
+- Developed dashboards, blogs, and e-commerce platforms  
 - Designed & implemented REST APIs with optimized backend logic  
-- Agile workflow with Jira & GitHub Projects  
-- Deployed apps on Netlify, Vercel & Heroku  
+- Managed Agile workflow with Jira & GitHub Projects  
+- Deployed applications to Netlify, Vercel & Heroku  
 
 ### Software Development Intern — ZertTech
 **Jun 2023 - Dec 2023**  
-- Developed multiple full-stack applications with modern UI/UX  
+- Built multiple full-stack applications with modern UI/UX  
 - Implemented JWT authentication & role-based access control  
 - Followed SDLC, GitHub workflow & CI/CD pipelines  
 
 ### Freelance Developer — HashmMeer Leathers
 **Mar 2023 - May 2023**  
-- Built responsive e-commerce website with cart & checkout  
-- Optimized frontend UI for performance and speed  
+- Created responsive e-commerce website with cart & checkout  
+- Optimized frontend for performance and speed  
 
 ---
 
 ## 🎮 Projects & Mini Games
 
-- Snake Game (JS, HTML, CSS)  
-- Typing Speed Game (React, Tailwind CSS)  
-- Pokemon-Style Game (JS, HTML, CSS)  
-- 2048 Game (React, Tailwind)  
-- Calculator App (JS, HTML, CSS)  
-- Blog Application (MERN)  
-- E-Commerce Website (MERN, Tailwind)  
-- Banking Application (MERN)  
+- **Snake Game** — JS, HTML, CSS  
+- **Typing Speed Game** — React, Tailwind CSS  
+- **Pokemon-Style Game** — JS, HTML, CSS  
+- **2048 Game** — React, Tailwind  
+- **Calculator App** — JS, HTML, CSS  
+- **Blog Application** — MERN  
+- **E-Commerce Website** — MERN, Tailwind  
+- **Banking Application** — MERN  
 
 ---
 
 ## 🏆 Achievements
-- Delivered multiple production-ready MERN & SERN applications  
+- Delivered production-ready MERN & SERN applications  
 - Implemented CI/CD pipelines during internships  
 - Contributed to open-source projects  
-- Active GitHub streak & coding challenges  
-- Presented projects in webinars & tech meetups  
+- Maintained active GitHub streak & coding challenges  
+- Presented projects at webinars & tech meetups  
 
 ---
 
