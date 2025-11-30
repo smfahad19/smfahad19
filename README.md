@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Software Engineering Student | MERN & SERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=4th+Semester+%40+Superior+University;Full-Stack+Developer;Passionate+Learner;Open+to+Collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=5th+Semester+%40+Superior+University;Full-Stack+Developer;MERN+%26+SERN+Expert;Open+to+Collaborations" />
 </p>
 
 ---
@@ -57,49 +57,57 @@
 
 ## 💼 Experience
 
+### 🧑‍💻 **Full Stack Developer — Ezitech Institute**
+- Currently working as a **Full Stack Developer**
+- Building **professional-level MERN & SERN stack applications**
+- Working on **blog apps, dashboards, APIs, authentication**
+- Hands-on **team collaboration**, Agile workflow, Jira usage
+- Contributing to **real-world client projects**
+
 ### 🧑‍💻 **Software Development Intern — ZertTech Software House**
-- Built **3 real-world full-stack applications**  
-- Implemented **REST APIs, authentication, dashboards**  
-- Worked in a **professional Agile environment**  
-- Collaborated using GitHub & Jira
+- Built **3 real-world full-stack applications**
+- Implemented **REST APIs, authentication, dashboards**
+- Learned professional **SDLC + Agile + GitHub workflow**
 
 ### 🏢 **Freelance Developer — HashmMeer Leathers**
-- Designed business website & e-commerce store  
-- Custom features for product management  
-- Worked closely with client requirements
+- Designed business website & e-commerce store
+- Custom product management + admin system
+- Delivered fully responsive UI
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 **Portfolio Website**
-- Built with React & Tailwind  
-- Modern UI + smooth animations  
+- React + Tailwind  
+- Beautiful UI + smooth animations  
 
-### 📝 **Blog Application**
-- Authentication  
-- Like & dislike feature  
-- Clean user interface  
+### 📝 **Blog Application (MERN + SERN)**
+- Built using **both MERN and SERN stacks**
+- Authentication, roles, authorization
+- Create, update, like, dislike posts
+- Admin dashboard + attractive UI
 
 ### 💬 **Real-time Chat App**
-- Socket.io  
-- Live messaging + online users  
+- Socket.io + Node.js  
+- Live messaging and online users  
 
 ### 🛒 **E-commerce Web App**
-- Product catalog  
+- Product catalog, filters  
 - Cart & checkout system  
 
 ### 🏨 **Hotel Booking System**
 - Room booking, availability  
 - Payment integration ready  
 
+### 📚 **Many More Apps**
+- Dozens of practice + professional projects in JS, React, Node.js
+
 ---
 
 ## 📈 GitHub Metrics
 <div align="center">
-  
-<img src="https://metrics.lecoq.io/smfahad19?template=classic&base=header,activity,repositories,metadata&config.timezone=Asia/Karachi" />
-
+  <img src="https://metrics.lecoq.io/smfahad19?template=classic&base=header,activity,repositories,metadata&config.timezone=Asia/Karachi" />
 </div>
 
 ---
@@ -124,11 +132,7 @@
 ---
 
 <div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=smfahad19&color=blueviolet&style=flat-square" />
-
-<br/><br/>
-
-⭐ **From [smfahad19](https://github.com/smfahad19)**
-
+  <img src="https://komarev.com/ghpvc/?username=smfahad19&color=blueviolet&style=flat-square" />
+  <br/><br/>
+  ⭐ <b>From smfahad19</b>
 </div>
