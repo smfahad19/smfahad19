@@ -6,8 +6,16 @@
 <h3 align="center">🚀 Software Engineering Student | MERN & SERN Stack Developer | Python (Flask) | Java | C++</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Always+Learning+New+Skills;Backend+APIs+%26+Front-End+UI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Always+Learning+New+Skills;Backend+APIs+%26+Front-End+UI" />
 </p>
+
+---
+
+## 🌐 Live Portfolios
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedfahad.netlify.app-000?style=for-the-badge)](https://syedfahad.netlify.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-nexorax.org-000?style=for-the-badge)](https://nexorax.org)
+</div>
 
 ---
 
@@ -27,7 +35,7 @@
 
 ### **Frontend**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,bootstrap,nextjs" />
 </p>
 
 ### **Backend**
@@ -89,7 +97,7 @@
 ### 🌐 Portfolio Website
 - **Tech:** React, Tailwind CSS, Framer Motion  
 - **Features:** Modern UI, responsive design, animations, contact form  
-- **Link:** [Live Demo](https://smfahad.dev)
+- **Link:** [Live Demo](https://syedfahad.netlify.app)
 
 ### 📝 Blog Application (MERN + SERN)
 - **Tech:** React, Node.js, Express, MongoDB  
@@ -99,7 +107,7 @@
 ### 🛒 E-commerce Web App
 - **Tech:** MERN Stack, Tailwind CSS  
 - **Features:** Product catalog, filters & search, shopping cart, checkout flow  
-- **Link:** [Live Demo](#)
+- **Link:** [Live Demo](https://nexorax.org)
 
 ### 💬 Real-time Chat App
 - **Tech:** React, Node.js, Socket.io  
@@ -127,11 +135,30 @@
 
 ### Snake Game
 - **Tech:** JavaScript, HTML, CSS  
-- **Play Here:** [Live Demo](https://snake-game-five-taupe.vercel.app/)
+- **Play Here:** [Live Demo](https://snake-game-five-taupe.vercel.app/)  
+- **GIF Preview:**  
+  <p align="center">
+  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="400"/>
+  </p>
 
 ### Typing Speed Game
 - **Tech:** React, Tailwind CSS  
-- **Link:** [Live Demo](#)
+- **Link:** [Live Demo](#)  
+- **GIF Preview:**  
+  <p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+  </p>
+
+### Puzzle Game
+- **Tech:** JavaScript, HTML, CSS  
+- **Link:** [Live Demo](#)  
+- **Video Preview:**  
+  <p align="center">
+  <video width="400" controls>
+    <source src="https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+  </p>
 
 ---
 
@@ -140,12 +167,13 @@
 - Implemented CI/CD pipelines for internships  
 - Contributed to open-source projects on GitHub  
 - Consistently active in GitHub streak & coding challenges  
+- Presented projects in local tech meetups and webinars  
 
 ---
 
 ## 🎯 Currently Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,redux,python,flask" />
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,redux,python,flask,tailwind" />
 </p>
 
 ---
@@ -155,13 +183,15 @@
 - Learning AI & ML basics  
 - Playing chess & coding mini games  
 - Blogging technical tutorials  
+- Contributing to open-source communities  
 
 ---
 
 ## 📫 Contact Me
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/smfahad19)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](https://smfahad.dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](https://syedfahad.netlify.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](https://nexorax.org)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:fahad@example.com)
 </div>
 
