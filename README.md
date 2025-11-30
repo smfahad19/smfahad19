@@ -3,38 +3,32 @@
   <b>Syed Muhammad Fahad</b>
 </h1>
 
-<h3 align="center">🚀 Software Engineering Student (5th Semester) | MERN & SERN Stack Developer | Python (Flask) | Java | C++</h3>
+<h3 align="center">🚀 Software Engineering Student | MERN & SERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Flask+Developer;Java+%26+C%2B%2B+Programmer;Building+Scalable+Web+Apps;Always+Learning+%26+Innovating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Always+Learning+New+Skills" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 5th semester **Software Engineering Student**
-- 6+ months experience in **Full Stack Development**
-- Hands-on experience with  
-  **C++**, **Java**, **JavaScript**, **Python (Flask)**  
-- Strong backend logic + API development  
-- Worked on **production-level & client-based projects**
-
----
-
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=radical&hide_border=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=radical&hide_border=true" height="170" />
+<!-- ✔ WORKING IMAGE #1 -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smfahad19&theme=radical&show_icons=true&hide_border=true"/>
+
+<!-- ✔ WORKING IMAGE #2 -->
+<img height="170" src="https://streak-stats.demolab.com?user=smfahad19&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=radical&hide_border=true" height="150" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smfahad19&theme=react-dark&bg_color=20232a&hide_border=true&area=true" />
+<!-- ✔ WORKING ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smfahad19&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -42,90 +36,69 @@
 
 ## 🛠️ Tech Stack
 
-### **Web Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
 ## 💼 Experience
 
-### 🧑‍💻 **Full Stack Developer — Ezitech Institute**
-- MERN & SERN stack development  
-- Blog systems, dashboards, secure authentication  
-- API development + database optimization  
-- Agile (Scrum) — Jira, GitHub workflows  
-- Production-level & client-based work  
+### 🧑‍💻 Full Stack Developer — Ezitech Institute
+- Working on **production-level MERN & SERN projects**
+- Dashboards, blog systems, authentication
+- Agile workflow (Jira, GitHub)
+- Creating scalable & secure backend APIs
 
-### 🧑‍💻 **Software Development Intern — ZertTech**
-- 3 full-stack apps  
-- JWT auth, REST APIs, roles + permissions  
-- CI/CD, SDLC, project planning  
+### 🧑‍💻 Software Development Intern — ZertTech
+- Built **3 full-stack apps**
+- JWT auth, REST APIs
+- SDLC + professional workflow
 
-### 🏢 **Freelance Developer — HashmMeer Leathers**
-- Business website + e-commerce features  
-- Custom product management system  
-- Responsive + modern UI  
+### 🛍 Freelance Developer — HashmMeer Leathers
+- Business website + product management system
+- Responsive, fast, modern UI
+
+---
+
+## 🎮 Mini Game (For Fun)
+
+### **Snake Game (Play Here 👇)**  
+Click to play 👇  
+🎯 **LIVE GAME:**  
+https://snake-game-five-taupe.vercel.app/
+
+(If you want, I can embed the game directly inside README using GIF preview)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 **Portfolio Website**
-- React + Tailwind  
-- Modern UI, animations, responsive  
-
-### 📝 **Blog Application (MERN + SERN)**
-- Authentication, role-based access  
-- Admin dashboard  
-- Secure APIs  
-
-### 🛒 **E-commerce Web App**
-- Product management  
-- Filters & search  
-- Cart + checkout + order flow  
-
-### 💬 **Real-time Chat App**
-- Socket.io  
-- Live messaging  
-
-### 🏨 **Hotel Booking System**
-- Rooms, booking, availability engine  
-
-### 🔥 **BehindEv Web Application**
-- Full business logic  
-- Admin + User functionality  
-- Secure backend  
-
-### 🐍 **Python Flask Projects**
-- REST APIs  
-- Auth systems  
-- Mini dashboards  
-
-### 💻 **Java & C++ Programs**
-- OOP  
-- Data structures  
-- Logic-building apps  
+- **Portfolio Website** – React + Tailwind + Animations  
+- **Blog App (MERN + SERN)** – Auth, roles, admin  
+- **E-commerce App** – Filter, cart, checkout flow  
+- **Real-time Chat** – Socket.io  
+- **Hotel Booking System** – Availability engine  
+- **Flask Projects** – APIs, dashboards  
+- **Java / C++ OOP Programs**
 
 ---
 
@@ -133,23 +106,23 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smfahad19)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://smfahad.dev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/smfahad19)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](https://smfahad.dev)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:fahad@example.com)
 
 </div>
 
 ---
 
 ## 🎯 Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=smfahad19&color=blueviolet&style=flat-square" />
   <br/><br/>
-  ⭐ <b>From smfahad19</b>
+  ⭐ <b>Made by Syed Muhammad Fahad</b>
 </div>
