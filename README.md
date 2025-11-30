@@ -6,8 +6,26 @@
 <h3 align="center">🚀 Software Engineering Student (5th Semester) | MERN & SERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Always+Learning+%26+Innovating" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+%26+SERN+Specialist;Building+Scalable+Web+Apps;Game+Development+Enthusiast;Always+Learning+%26+Innovating" />
 </p>
+
+---
+
+## 🎮 Game Development (New)
+### 👾 **Game Developer (Beginner Level)**
+- Learning **JavaScript Game Development**
+- Working on **small logic-based browser games**
+- Understanding **game loops, sprites, animations**
+- Interested in **2D game physics + real-time logic**
+
+### 🕹️ **Games I Have Built**
+- **Tic Tac Toe (JS + HTML/CSS)**  
+- **Snake Game (Canvas API)**  
+- **Flappy Bird Clone (Physics + Collision Detection)**  
+- **Color Guessing Game**  
+- **Memory Card Flip Game**
+
+> ⚡ More advanced games coming soon (using **Three.js** & **Phaser.js**)!
 
 ---
 
@@ -47,6 +65,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **Game Tools (New)**
+![Canvas](https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge&logo=html5&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser.js-1A73E8?style=for-the-badge&logo=javascript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -60,51 +83,34 @@
 ## 💼 Experience
 
 ### 🧑‍💻 **Full Stack Developer — Ezitech Institute**
-- Currently working as a **Full Stack Developer**
-- Building **production-level MERN & SERN applications**
-- Blog systems, dashboards, authentication, custom APIs
-- Working in a **professional Agile team** with Jira
-- Contributing to **client-based & internal projects**
+- Working as a **Full Stack Developer**
+- Production-level **MERN & SERN** apps
+- Blog systems, dashboards, custom APIs
+- Agile team (Scrum + Jira)
+- Client & in-house product development
 
-### 🧑‍💻 **Software Development Intern — ZertTech Software House**
-- Built **3 full-stack applications** end-to-end  
-- Implemented **JWT auth, REST APIs, dashboards**  
-- Gained experience in **SDLC, Agile, GitHub workflows**
+### 🧑‍💻 **Software Development Intern — ZertTech**
+- Built **3 full-stack apps**
+- JWT auth, REST APIs, dashboards
+- Learned **SDLC, Agile, GitHub CI/CD**
 
 ### 🏢 **Freelance Developer — HashmMeer Leathers**
-- Developed business website + e-commerce features  
+- Business website + e-commerce modules
 - Custom product management system  
-- Delivered optimized UI/UX with clean responsive design  
+- Clean, modern & responsive UI
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 **Portfolio Website**
-- React + Tailwind  
-- Modern UI, animations, optimized layout  
-
 ### 📝 **Blog Application (MERN + SERN)**
-- Authentication, roles, authorization  
-- Like/dislike system  
-- Admin dashboard  
-- Clean & scalable architecture  
-
 ### 💬 **Real-time Chat App**
-- Socket.io + Node.js  
-- Online users, live conversations  
-
 ### 🛒 **E-commerce Web App**
-- Product catalog, filter system  
-- Cart, checkout & order flow  
-
 ### 🏨 **Hotel Booking System**
-- Room availability, booking  
-- Payment-ready architecture  
-
-### 📚 **More Projects**
-- Multiple full-stack apps in MERN/SERN  
-- Practice + production-level systems  
+### 🎮 **Snake Game (JS + Canvas)**
+### 🎮 **Flappy Bird Clone**
+### 🎮 **Memory Card Game**
 
 ---
 
@@ -131,6 +137,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/Phaser.js-1A73E8?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
