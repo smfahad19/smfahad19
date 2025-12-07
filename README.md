@@ -13,7 +13,7 @@
   <!-- Live Status Badges -->
   <div>
     <img src="https://komarev.com/ghpvc/?username=fahadsyed&label=Profile%20Views&color=00D4FF&style=flat" />
-    <img src="https://img.shields.io/badge/5+Live_Projects-Online-00C853?style=flat&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/6+Live_Projects-Online-00C853?style=flat&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/Full_Stack-Developer-9D4EDD?style=flat&logo=stackshare&logoColor=white" />
     <img src="https://img.shields.io/badge/Available-Freelance-4ECDC4?style=flat&logo=fiverr&logoColor=white" />
   </div>
@@ -81,6 +81,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" />
         <br/>
         <strong>Key Features:</strong>
         <ul align="left">
@@ -129,7 +130,9 @@
         <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Quill-000000?logo=quill&logoColor=white" />
         <br/>
         <strong>Key Features:</strong>
@@ -193,6 +196,9 @@
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" />
         <br/>
         <strong>Key Features:</strong>
@@ -303,26 +309,46 @@
 
 <div align="center">
 
-### **Frontend Mastery**
+### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend & Database**
+### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Databases & ORM**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### **State Management & Tools**
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### **Deployment & DevOps**
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -350,54 +376,60 @@
 
 ---
 
-## 🎯 **Project Categories & Skills**
+## 🎯 **Technical Skills & Project Categories**
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <h4>🎨 Frontend Development</h4>
-      <p>React, Next.js, TypeScript</p>
-      <p>Tailwind CSS, Material-UI</p>
-      <p>Responsive Design, Animation</p>
+      <p>React.js, Next.js, TypeScript</p>
+      <p>JavaScript (ES6+), HTML5, CSS3</p>
+      <p>Tailwind CSS, Material-UI, Bootstrap</p>
+      <p>Redux, Context API, React Router</p>
       <p><strong>Projects: 5+</strong></p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <h4>⚙️ Backend Development</h4>
       <p>Node.js, Express.js</p>
-      <p>REST APIs, Authentication</p>
-      <p>Database Design, Security</p>
+      <p>Python, Flask Framework</p>
+      <p>Java, Maven Build Tool</p>
+      <p>RESTful APIs, Authentication</p>
       <p><strong>Projects: 4+</strong></p>
     </td>
-    <td align="center" width="33%">
-      <h4>🚀 Full Stack Applications</h4>
-      <p>MERN Stack (MongoDB, Express, React, Node)</p>
-      <p>SERN Stack (SQL, Express, React, Node)</p>
-      <p>End-to-End Development</p>
-      <p><strong>Projects: 3+</strong></p>
+    <td align="center" width="33%" valign="top">
+      <h4>🗄️ Databases</h4>
+      <p>MongoDB (NoSQL Database)</p>
+      <p>MySQL (Relational Database)</p>
+      <p>PostgreSQL (Advanced SQL)</p>
+      <p>Firebase (Real-time Database)</p>
+      <p><strong>Experience: All Projects</strong></p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
+      <h4>🚀 Full Stack Frameworks</h4>
+      <p>MERN Stack (MongoDB, Express, React, Node)</p>
+      <p>SERN Stack (SQL, Express, React, Node)</p>
+      <p>Flask + React Applications</p>
+      <p>Java Spring + Frontend (Learning)</p>
+      <p><strong>Production Projects: 3+</strong></p>
+    </td>
+    <td align="center" width="33%" valign="top">
       <h4>🌐 Deployment & DevOps</h4>
-      <p>Netlify, Vercel</p>
-      <p>CI/CD Pipeline</p>
-      <p>Domain Configuration</p>
-      <p><strong>Deployed: 6+</strong></p>
+      <p>Netlify, Vercel, Heroku</p>
+      <p>Git, GitHub, Version Control</p>
+      <p>Postman, API Testing</p>
+      <p>VS Code, Development Tools</p>
+      <p><strong>Deployed: 6+ Applications</strong></p>
     </td>
-    <td align="center" width="33%">
-      <h4>💼 Client Projects</h4>
-      <p>Requirements Analysis</p>
-      <p>Project Management</p>
-      <p>Client Communication</p>
-      <p><strong>Clients: 2+</strong></p>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <h4>📈 Currently Learning</h4>
       <p>Advanced TypeScript</p>
+      <p>Java Spring Framework</p>
       <p>AWS Cloud Services</p>
-      <p>Docker & Kubernetes</p>
+      <p>Docker & Containerization</p>
       <p>Microservices Architecture</p>
     </td>
   </tr>
@@ -407,15 +439,23 @@
 
 ---
 
-## 🎓 **Learning Journey**
+## 🎓 **Learning Journey & Skills Development**
 
 <div align="center">
 
 ```javascript
-const learningJourney = {
-  currentFocus: ["TypeScript", "AWS", "Microservices"],
-  completed: ["React", "Node.js", "MongoDB", "Express", "Tailwind"],
-  nextGoals: ["Docker", "Kubernetes", "GraphQL"],
-  philosophy: "Build → Learn → Improve → Repeat",
-  quote: "The best way to learn is by building real projects that solve real problems"
+const technicalSkills = {
+  mastered: {
+    frontend: ["React", "JavaScript", "HTML/CSS", "Tailwind", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "Python", "Flask", "Java"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel"]
+  },
+  currentlyLearning: {
+    languages: ["Advanced TypeScript", "Java Spring", "Python Django"],
+    cloud: ["AWS Services", "Docker", "Kubernetes"],
+    concepts: ["Microservices", "System Design", "CI/CD Pipelines"]
+  },
+  philosophy: "Continuous Learning through Building Real Projects",
+  approach: "Master fundamentals → Build projects → Learn advanced concepts"
 };
