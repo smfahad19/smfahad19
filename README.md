@@ -1,98 +1,231 @@
 <div align="center">
 
-# 👨‍💻 Syed Muhammad Fahad
-### **Full Stack Developer | MERN Stack Specialist** 🚀
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Muhammad%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=65&descSize=25" alt="Header"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-fahad/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smfahad19)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://syedfahad.netlify.app/)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;8%2B+Months+Industry+Experience+%F0%9F%8F%A2;Passionate+Full+Stack+Developer+%F0%9F%92%BB;Specialized+in+MERN+Stack+%E2%9A%99%EF%B8%8F;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
----
+<!-- Social Links with Animation -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-muhammad-fahad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:syedfahad305171@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/smfahad19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub"/>
+  </a>
+  <a href="https://syedfahad.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000&color=000000" alt="Portfolio"/>
+  </a>
+</p>
 
-## 💼 **Professional Experience**
 
-### **🚀 Software Development Engineer**
-**ZerTech Software House** | *June 2023 - Present*
-- Developing enterprise-level ERP systems using **MERN Stack**
-- Building scalable **RESTful APIs** with **Node.js & Express.js**
-- Implementing database solutions with **MySQL & MongoDB**
-- Working in **Agile/Scrum** development environment
-- Conducting **code reviews** and ensuring code quality
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smfahad19&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6a00&point=ffffff&area=true&area_color=58a6ff&title_color=ffffff&custom_title=GitHub+Contribution+Graph" alt="Activity Graph" width="900"/>
+</p>
 
-### **🎓 Full Stack Developer Intern**
-**Ezitech Institute** | *January 2024 - Present*
-- Practical training in **MERN stack** development
-- Building **production-ready** web applications
-- Learning **industry best practices** and workflows
-- Understanding **CI/CD pipelines** and deployment
-
----
-
-## 🛠️ **Technical Skills**
-
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 📁 **Current Projects**
-
-### **🏢 ERP System Development**
-- **Tech:** React, Node.js, Express.js, MySQL, MongoDB
-- **Role:** Full Stack Developer
-- **Features:** User Management, Inventory Control, Reporting Dashboard, Authentication
-
-### **🌐 MERN Stack Applications**
-- **Tech:** MongoDB, Express, React, Node.js
-- **Features:** User Authentication, CRUD Operations, REST APIs, Responsive UI
-
----
-
-## 📚 **Core Competencies**
-- Full Stack Development (MERN Stack)
-- Database Design & Management
-- RESTful API Development
-- Version Control (Git/GitHub)
-- Problem Solving & DSA
-- Object-Oriented Programming
-- Agile Methodology
-
----
+## 🚀 **Technical Expertise**
 
 <div align="center">
 
-## 📞 **Get In Touch**
+<!-- Tech Stack Cards with Hover Effect -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-fahad/)
-[![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smfahad19)
+</div>
 
 ---
 
-⭐ **"Building scalable solutions with clean code and modern architecture"** ⭐
+## 💼 **Professional Journey**
+
+<div align="center">
+
+<!-- Experience Timeline -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363d;">
+
+### 🏢 **Current Engagements**
+
+<div align="left" style="margin: 20px 0;">
+
+#### 🚀 **Software Development Engineer**
+**ZerTech Software House** | *June 2023 - Present*  
+📍 Karachi, Pakistan | 🔄 Full-time
+
+> **Key Responsibilities:**
+> - 🔧 Developing enterprise-level ERP systems using **MERN Stack**
+> - 🌐 Building scalable **RESTful APIs** with **Node.js & Express.js**
+> - 🗄️ Implementing robust database solutions with **MySQL & MongoDB**
+> - 🤝 Collaborating in **Agile/Scrum** development environment
+> - 📊 Conducting **code reviews** and ensuring quality standards
+> - 🎯 Contributing to **system architecture** and design decisions
+
+#### 🎓 **Full Stack Developer Intern**
+**Ezitech Institute** | *January 2024 - Present*  
+📍 Karachi, Pakistan | 🔄 Training
+
+> **Learning Focus:**
+> - 🏗️ Practical **MERN stack** development
+> - 🚀 Building **production-ready** applications
+> - 📚 Industry **best practices** and workflows
+> - ⚙️ **CI/CD pipelines** and deployment strategies
+> - 🛠️ Modern development tools and techniques
 
 </div>
+
+</div>
+
+</div>
+
+---
+
+## 📊 **Skills Matrix**
+
+<div align="center">
+
+| Category | Technologies | Proficiency |
+|:--------:|:------------:|:-----------:|
+| **Frontend** | React, HTML5, CSS3, Tailwind CSS, Bootstrap | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Express.js, REST APIs, JWT | ⭐⭐⭐⭐⭐ |
+| **Databases** | MongoDB, MySQL, Mongoose, SQL | ⭐⭐⭐⭐ |
+| **Languages** | JavaScript, Java, Python, C++ | ⭐⭐⭐⭐ |
+| **Tools** | Git, GitHub, VS Code, Postman | ⭐⭐⭐⭐⭐ |
+| **Concepts** | DSA, OOP, System Design, Agile | ⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+## 🎯 **Current Projects**
+
+<div align="center">
+
+<!-- Project Cards -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
+  <h3 align="center">🏢 ERP System</h3>
+  <p align="center"><strong>ZerTech Software House</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Status-Development-FF6B6B?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square" alt="Stack"/>
+  </div>
+  <ul>
+    <li>User Management System</li>
+    <li>Inventory Control Module</li>
+    <li>Reporting Dashboard</li>
+    <li>Authentication & Authorization</li>
+    <li>Real-time Updates</li>
+  </ul>
+</div>
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
+  <h3 align="center">🌐 MERN Applications</h3>
+  <p align="center"><strong>Personal & Training Projects</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Status-Ongoing-4ECDC4?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square" alt="Stack"/>
+  </div>
+  <ul>
+    <li>E-commerce Platforms</li>
+    <li>Blog Management Systems</li>
+    <li>Authentication Systems</li>
+    <li>CRUD Operations</li>
+    <li>API Integrations</li>
+  </ul>
+</div>
+
+</div>
+
+</div>
+
+---
+
+## 📈 **Learning Path**
+
+<div align="center">
+
+timeline
+    title Professional Growth Timeline
+    section 2023
+        June : Joined ZerTech<br>Software House
+        Aug : MERN Stack Mastery<br>Project Development
+        Oct : Database Design<br>API Development
+    section 2024
+        Jan : Ezitech Institute<br>Advanced Training
+        Feb : System Architecture<br>Performance Optimization
+        Mar : Cloud Deployment<br>Microservices
 </div>
