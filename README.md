@@ -230,12 +230,16 @@
 
 timeline
     title Professional Growth Timeline
-    section 2023
+    section 2025
         June : Joined ZerTech<br>Software House
         Aug : MERN Stack Mastery<br>Project Development
         Oct : Database Design<br>API Development
-    section 2024
+    section 2025
         Jan : Ezitech Institute<br>Advanced Training
+        Feb : System Architecture<br>Performance Optimization
+        Mar : Cloud Deployment<br>Microservices
+    section 2026
+        Jan : Itsolera Institute<br>Advanced Training
         Feb : System Architecture<br>Performance Optimization
         Mar : Cloud Deployment<br>Microservices
 </div>
