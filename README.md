@@ -54,12 +54,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>
       <br>React
@@ -92,12 +86,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
@@ -116,30 +104,6 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
   </tr>
 </table>
 
@@ -156,7 +120,7 @@
 
 ### 🏢 **Current Engagements**
 
-<div align="left" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
 
 #### 🚀 **Full Stack Developer**
 **Itsolera** | *2026 - Present*  
@@ -255,125 +219,6 @@
     <li>✅ **Mobile App & Web Platform**</li>
   </ul>
 </div>
-
-<!-- Project 2 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
-  <h3 align="center">🏥 **MediCare Connect**</h3>
-  <p align="center"><strong>Healthcare Telemedicine Platform</strong></p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Production"/>
-    <img src="https://img.shields.io/badge/Stack-React%2FNode-61DAFB?style=flat-square" alt="Stack"/>
-    <img src="https://img.shields.io/badge/Patients-50K%2B-4ECDC4?style=flat-square" alt="Patients"/>
-  </div>
-  <ul>
-    <li>✅ **Video Consultation System**</li>
-    <li>✅ **Electronic Health Records (EHR)**</li>
-    <li>✅ **Pharmacy Integration**</li>
-    <li>✅ **Appointment Scheduling**</li>
-    <li>✅ **Prescription Management**</li>
-    <li>✅ **Lab Test Booking**</li>
-    <li>✅ **Health Insurance Claims**</li>
-  </ul>
-</div>
-
-<!-- Project 3 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
-  <h3 align="center">🛍️ **ShopSphere Pro**</h3>
-  <p align="center"><strong>Multi-vendor E-commerce Platform</strong></p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Production"/>
-    <img src="https://img.shields.io/badge/Stack-React%2FNode-61DAFB?style=flat-square" alt="Stack"/>
-    <img src="https://img.shields.io/badge/Merchants-100%2B-FFA726?style=flat-square" alt="Merchants"/>
-  </div>
-  <ul>
-    <li>✅ **Multi-vendor Marketplace**</li>
-    <li>✅ **Inventory Management**</li>
-    <li>✅ **Order Processing System**</li>
-    <li>✅ **Payment Gateway Integration**</li>
-    <li>✅ **Shipping & Logistics**</li>
-    <li>✅ **Customer Reviews & Ratings**</li>
-    <li>✅ **Admin Dashboard Analytics**</li>
-  </ul>
-</div>
-
-</div>
-
-<!-- More Projects -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-<!-- Project 4 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
-  <h3 align="center">🏦 **PaySecure Wallet**</h3>
-  <p align="center"><strong>Fintech Banking Application</strong></p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Production"/>
-    <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square" alt="Stack"/>
-    <img src="https://img.shields.io/badge/Secure-PCI%20DSS-2196F3?style=flat-square" alt="Secure"/>
-  </div>
-  <ul>
-    <li>✅ **Secure Transactions** (SSL/TLS encryption)</li>
-    <li>✅ **Multi-factor Authentication**</li>
-    <li>✅ **Bank Integration APIs**</li>
-    <li>✅ **Bill Payments & Transfers**</li>
-    <li>✅ **Investment Portfolio**</li>
-    <li>✅ **Financial Analytics**</li>
-    <li>✅ **Mobile Banking App**</li>
-  </ul>
-</div>
-
-<!-- Project 5 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
-  <h3 align="center">🎓 **EduVerse LMS**</h3>
-  <p align="center"><strong>Learning Management System</strong></p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Production"/>
-    <img src="https://img.shields.io/badge/Stack-React%2FNode-61DAFB?style=flat-square" alt="Stack"/>
-    <img src="https://img.shields.io/badge/Institutions-20%2B8378FF?style=flat-square" alt="Institutions"/>
-  </div>
-  <ul>
-    <li>✅ **Course Management System**</li>
-    <li>✅ **Video Streaming & Lectures**</li>
-    <li>✅ **Assignment & Quiz System**</li>
-    <li>✅ **Student Progress Tracking**</li>
-    <li>✅ **Live Classroom Feature**</li>
-    <li>✅ **Certificate Generation**</li>
-    <li>✅ **Discussion Forums**</li>
-  </ul>
-</div>
-
-</div>
-
-</div>
-
----
-
-## 📈 **Career Timeline 2023-2026**
-
-```mermaid
-timeline
-    title Professional Growth Timeline 2023-2026
-    section 2023
-        June : Joined ZerTech<br>Enterprise ERP Development
-        Aug : MERN Stack Mastery<br>Production Level Applications
-        Oct : Database Architecture<br>Performance Optimization
-    section 2024
-        Jan : Advanced Training<br>Ezitech Institute
-        Mar : Joined Itsolera<br>Real-world Client Projects
-        May : Healthcare Platform<br>MediCare Connect Launch
-        Aug : E-commerce Platform<br>ShopSphere Pro Production
-        Nov : FinTech Application<br>PaySecure Wallet Launch
-    section 2025
-        Feb : HR System Scale-up<br>50+ Modules Implementation
-        May : Microservices Migration<br>Improved Scalability
-        Aug : AI Integration<br>Smart Features Implementation
-        Nov : International Clients<br>Global Project Delivery
-    section 2026
-        Current : Senior Developer Role<br>Team Leadership
-        Future : Architecture Design<br>CTO Path Preparation
-        Vision : Startup Incubation<br>Mentoring Next Generation
-```
-
----
 
 ## 🌟 **Key Achievements**
 
