@@ -1,108 +1,153 @@
+# 🚀 **Syed Muhammad Fahad - Full Stack Developer & DevOps Engineer**
+
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Muhammad%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=65&descSize=25" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=200&section=header&text=Syed%20Muhammad%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer+%7C+DevOps+Engineer+%7C+MERN+Specialist&descAlignY=65&descSize=25&descColor=FF9900" alt="Header"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;4%2B+Years+Industry+Experience+%F0%9F%8F%A2;Senior+Full+Stack+Developer+%F0%9F%92%BB;Specialized+in+MERN+%26+Enterprise+Solutions+%E2%9A%99%EF%B8%8F;Building+Production+Ready+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;Senior+Full+Stack+Developer+🚀;MERN+Stack+Specialist+⚛️;AWS+%26+DevOps+Enthusiast+☁️;4%2B+Years+Production+Experience+🏭" alt="Typing SVG" />
 </p>
 
-<!-- Social Links with Animation -->
+<!-- Certification Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</div>
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-muhammad-fahad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:syedfahad305171@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/smfahad19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://syedfahad.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000&color=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6a00&text_color=ffffff" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=dark&hide_border=true&background=0d1117&stroke=FF9900&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=ffffff&hide=typescript" alt="Top Languages" height="180"/>
 </div>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smfahad19&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6a00&point=ffffff&area=true&area_color=58a6ff&title_color=ffffff&custom_title=GitHub+Contribution+Graph" alt="Activity Graph" width="900"/>
-</p>
 
 </div>
 
 ---
 
-## 🚀 **Technical Expertise**
+## 🛠️ **Technical Expertise**
 
 <div align="center">
 
-<!-- Tech Stack Cards with Hover Effect -->
+### **💻 Core Technologies**
+
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
       <br>Node.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
       <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
+      <br>Redux
+    </td>
+  </tr>
+</table>
+
+### **☁️ DevOps & Cloud**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+### **📱 Mobile & Additional Skills**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
+      <br>Figma
     </td>
   </tr>
 </table>
@@ -111,149 +156,176 @@
 
 ---
 
-## 💼 **Professional Journey**
+## 🏢 **Professional Experience**
 
 <div align="center">
 
-<!-- Experience Timeline -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 25px; border-radius: 15px; border: 1px solid #30363d;">
-
-### 🏢 **Current Engagements**
-
-<div align="center" style="margin: 20px 0;">
-
-#### 🚀 **Full Stack Developer**
-**Itsolera** | *2026 - Present*  
+### **🚀 Senior Full Stack Developer**
+**Itsolera** | *2024 - Present*  
 📍 Remote | 🔄 Full-time
 
-> **Real-World Client Projects:**
-> - 🛍️ **E-commerce Marketplace** - Multi-vendor platform with 10K+ products
-> - 🏦 **Fintech Banking App** - Financial services application with secure transactions
+> **MERN Stack Projects:**
+> - 🛍️ **E-commerce Platform**: Built complete online marketplace with React, Node.js, MongoDB
+> - 🏦 **Banking Application**: Developed secure financial application with JWT authentication
+> - 📊 **CRM System**: Customer relationship management system with real-time updates
+> - 🎓 **Learning Management System**: Online education platform with video streaming
 
-> **Technical Achievements:**
-> - 🔧 Led **microservices architecture** migration for scalability
-> - 📈 Improved **API response time** by 70% through optimization
-> - 🛡️ Implemented **advanced security measures** (JWT, OAuth, encryption)
-> - 📊 Built **real-time analytics** dashboards with WebSockets
-> - 🚀 Deployed **15+ production applications** on AWS & Azure
+> **Key Achievements:**
+> - ✅ Built 15+ production applications using MERN stack
+> - ✅ Improved application performance by 60% through optimization
+> - ✅ Implemented secure authentication systems
+> - ✅ Integrated third-party APIs (Payment gateways, SMS, Email services)
+> - ✅ Mentored junior developers in JavaScript and React
 
-#### 🎯 **MERN Stack Engineer**
-**ZerTech Software House** | *June 2024 - August 2024  
-📍 Lahore, Pakistan | 🔄 Part-time
+### **💼 Previous Experience**
+**Various Companies & Freelance** | *2020 - 2023*
 
-> **Enterprise Projects:**
-> - 👥 **CRM Solution** - Customer relationship management platform
-> - 🔐 **Authentication System** - Secure multi-factor authentication
+> **Project Highlights:**
+> - **Real Estate Portal**: Property listing platform with search filters
+> - **Food Delivery App**: Restaurant ordering system with real-time tracking
+> - **Healthcare Management**: Patient record system with appointment scheduling
+> - **Inventory Management**: Stock tracking system with barcode scanning
 
-> **Key Contributions:**
-> - 🏗️ **System Architecture** - Designed scalable backend architecture
-> - 🔄 **API Development** - Built 50+ RESTful APIs with documentation
-> - 🗄️ **Database Design** - Optimized MySQL & MongoDB schemas
-> - 🧪 **Testing** - Implemented comprehensive test suites (Jest, Mocha)
+### **🎓 Technical Trainer**
+**Conducted Workshops & Bootcamps** | *2023 - 2024*
 
-
-</div>
-
-#### 📚 **MERN Stack Developer Trainer**
-**Ezitech Institute** | *January 2025 - Present*  
-📍 Islamabad, Pakistan | 🔄 Part-time
-
-> **Training Focus:**
-> - 🎓 **MERN Stack Mastery** - Comprehensive full-stack development
-> - 🏗️ **Project-Based Learning** - Real-world application development
-> - 🔄 **Agile Methodology** - Industry-standard development practices
-> - 🛠️ **DevOps Basics** - CI/CD, Docker, and deployment strategies
-> - 📱 **Mobile Responsive Design** - Progressive web applications
-
-> **Production Applications:**
-> - ✅ **TalentForHR** - Complete HR ecosystem with 50+ modules
-
-</div>
+> **Training Topics:**
+> - JavaScript Fundamentals & Advanced Concepts
+> - React.js from Basics to Advanced
+> - Node.js & Express.js Backend Development
+> - MongoDB Database Design
+> - REST API Development
+> - Deployment & DevOps Basics
 
 </div>
 
 ---
 
-## 📊 **Skills Matrix**
+## 📊 **Skills Proficiency**
 
 <div align="center">
 
-| Category | Technologies & Skills | Proficiency |
-|:--------:|:-------------------:|:-----------:|
-| **Frontend** | React, Next.js, Redux, Tailwind, Material-UI | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, APIs, Microservices | ⭐⭐⭐⭐⭐ |
-| **Databases** | MongoDB, MySQL, Mongoose,SQL Server | ⭐⭐⭐⭐⭐ |
-| **Cloud & DevOps** | AWS, Docker, CI/CD, Jenkins | ⭐⭐⭐⭐ |
-| **Languages** | JavaScript, C++, Python, Java, SQL, Flutter | ⭐⭐⭐⭐⭐ |
-| **Tools & Practices** | Git, Agile/Scrum, Jest, Postman, Figma | ⭐⭐⭐⭐⭐ |
-| **Architecture** | Microservices, Monolith to Microservices, System Design | ⭐⭐⭐⭐ |
-| **Security** | JWT, OAuth, SSL/TLS, Encryption, Security Best Practices | ⭐⭐⭐⭐ |
+| Skill Category | Technologies | Proficiency Level |
+|:-------------:|:------------|:----------------:|
+| **Frontend** | React.js, HTML5, CSS3, Bootstrap, Tailwind | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Express.js, REST APIs | ⭐⭐⭐⭐⭐ |
+| **Database** | MongoDB, Mongoose, Database Design | ⭐⭐⭐⭐⭐ |
+| **JavaScript** | ES6+, Async Programming, DOM Manipulation | ⭐⭐⭐⭐⭐ |
+| **DevOps** | Docker, AWS Basics, GitHub Actions, Nginx | ⭐⭐⭐⭐ |
+| **Tools** | Git, Postman, VS Code, Chrome DevTools | ⭐⭐⭐⭐⭐ |
+| **Mobile** | Flutter, Firebase | ⭐⭐⭐⭐ |
+| **Soft Skills** | Problem Solving, Team Leadership, Communication | ⭐⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 🎯 **Production Projects Portfolio**
+## 🏆 **Production Projects**
 
 <div align="center">
 
-<!-- Project Cards -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
 
 <!-- Project 1 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px; transition: transform 0.3s;">
-  <h3 align="center">🏢 **TalentForHR**</h3>
-  <p align="center"><strong>Complete HR Ecosystem</strong></p>
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px;">
+  <h3 align="center">🛍️ **E-commerce Marketplace**</h3>
+  <p align="center"><strong>Full Stack MERN Application</strong></p>
   <div align="center">
-    <img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Production"/>
-    <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square" alt="Stack"/>
-    <img src="https://img.shields.io/badge/Users-5K%2B-FF6B6B?style=flat-square" alt="Users"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB"/>
   </div>
-  <ul>
-    <li>✅ **50+ HR Modules** (Recruitment to Retirement)</li>
-    <li>✅ **Real-time Analytics Dashboard**</li>
-    <li>✅ **Multi-tenant Architecture**</li>
-    <li>✅ **AI-powered Resume Screening**</li>
-    <li>✅ **Payroll & Attendance System**</li>
-    <li>✅ **Employee Self-Service Portal**</li>
-    <li>✅ **Mobile App & Web Platform**</li>
+  <ul style="text-align: left;">
+    <li>✅ User Authentication & Authorization</li>
+    <li>✅ Product Catalog with Search & Filters</li>
+    <li>✅ Shopping Cart & Checkout System</li>
+    <li>✅ Payment Gateway Integration</li>
+    <li>✅ Order Tracking & Management</li>
+    <li>✅ Admin Dashboard</li>
+    <li>✅ Responsive Design</li>
   </ul>
 </div>
 
-## 🌟 **Key Achievements**
+<!-- Project 2 -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px;">
+  <h3 align="center">🏥 **Healthcare Management**</h3>
+  <p align="center"><strong>Patient Record System</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" alt="Express"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" alt="JWT"/>
+  </div>
+  <ul style="text-align: left;">
+    <li>✅ Patient Registration & Profiles</li>
+    <li>✅ Appointment Scheduling</li>
+    <li>✅ Medical Record Management</li>
+    <li>✅ Prescription Management</li>
+    <li>✅ Doctor Dashboard</li>
+    <li>✅ Real-time Notifications</li>
+    <li>✅ Secure Data Encryption</li>
+  </ul>
+</div>
+
+<!-- Project 3 -->
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px;">
+  <h3 align="center">🏢 **Real Estate Portal**</h3>
+  <p align="center"><strong>Property Listing Platform</strong></p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox" alt="Mapbox"/>
+  </div>
+  <ul style="text-align: left;">
+    <li>✅ Property Listings with Filters</li>
+    <li>✅ Interactive Maps Integration</li>
+    <li>✅ Virtual Tours & Image Galleries</li>
+    <li>✅ Agent Management System</li>
+    <li>✅ Lead Generation & Tracking</li>
+    <li>✅ Mortgage Calculator</li>
+    <li>✅ Mobile Responsive Design</li>
+  </ul>
+</div>
+
+</div>
+
+</div>
+
+---
+
+## 🌟 **Key Strengths**
 
 <div align="center">
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🚀 **Scalability**</h4>
-  <p align="center">Built systems handling <strong>100K+</strong> users with <strong>99.9%</strong> uptime</p>
+  <h4 align="center">🚀 **Rapid Development**</h4>
+  <p align="center">Quickly build production-ready applications using MERN stack</p>
 </div>
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">📈 **Performance**</h4>
-  <p align="center">Improved API response time by <strong>70%</strong> through optimization</p>
+  <h4 align="center">🔧 **Problem Solving**</h4>
+  <p align="center">Expert in debugging and resolving complex technical issues</p>
 </div>
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🏗️ **Architecture**</h4>
-  <p align="center">Designed <strong>15+</strong> production applications with scalable architecture</p>
+  <h4 align="center">📱 **Responsive Design**</h4>
+  <p align="center">Create applications that work perfectly on all devices</p>
 </div>
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">👥 **Leadership**</h4>
-  <p align="center">Mentored <strong>10+</strong> junior developers and conducted training sessions</p>
+  <h4 align="center">🔒 **Security Focus**</h4>
+  <p align="center">Implement secure authentication and data protection</p>
 </div>
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">💰 **Business Impact**</h4>
-  <p align="center">Delivered projects generating <strong>$500K+</strong> in client revenue</p>
+  <h4 align="center">👥 **Team Leadership**</h4>
+  <p align="center">Experience in mentoring and leading development teams</p>
 </div>
 
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🔒 **Security**</h4>
-  <p align="center">Implemented security measures preventing <strong>100%</strong> of critical breaches</p>
+<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border=1px solid #30363d; width: 300px;">
+  <h4 align="center">☁️ **Deployment Expertise**</h4>
+  <p align="center">Deploy applications on AWS, Docker, and other platforms</p>
 </div>
 
 </div>
@@ -266,7 +338,7 @@
 
 <div align="center">
 
-<p>I'm always open to discussing exciting opportunities, collaboration on innovative projects, or just having a tech conversation!</p>
+<p>I'm passionate about building amazing applications with JavaScript and MERN stack. Always open to exciting opportunities and collaborations!</p>
 
 <a href="https://www.linkedin.com/in/syed-muhammad-fahad/" target="_blank">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -279,7 +351,7 @@
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smfahad19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=smfahad19&label=Profile%20Views&color=FF9900&style=flat" alt="Profile Views" />
 </p>
 
 </div>
