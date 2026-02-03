@@ -1,24 +1,135 @@
-# Syed Muhammad Fahad
+# 🚀 Syed Muhammad Fahad
 
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=10B981&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+to+Collaborations" alt="Typing Animation" />
+<!-- Animated Banner -->
+<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; animation: gradient 3s ease infinite; background-size: 400% 400%;">
+  
+```javascript
+const developer = {
+  name: "Syed Muhammad Fahad",
+  role: "Full Stack Developer",
+  stack: ["MERN", "Docker", "MySQL"],
+  status: "Building amazing things 🚀"
+};
+```
 
-<!-- Social Links with Hover Effect -->
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+</div>
 
-<a href="https://github.com/smfahad19" target="_blank" style="transition: transform 0.3s;">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<!-- Profile Links -->
+<div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0;">
 
-<a href="https://www.linkedin.com/in/syed-muhammad-fahad-472490285/" target="_blank" style="transition: transform 0.3s;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+```markdown
+[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-000?style=flat&logo=github)](https://github.com/smfahad19)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat&logo=gmail)](mailto:syedfahad305171@gmail.com)
+```
 
-<a href="mailto:syedfahad305171@gmail.com" target="_blank" style="transition: transform 0.3s;">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+</div>
+
+</div>
+
+## 📍 **Currently**
+- 🎓 5th Semester Computer Science Student
+- 💻 Full Stack Developer (MERN Specialist)
+- 🐳 DevOps Enthusiast
+- 🔥 Building real-world projects
+
+## ⚡ **Tech Arsenal**
+
+```bash
+Frontend:    React, Next.js, Tailwind CSS, Redux
+Backend:     Node.js, Express.js, Python, Flask
+Database:    MongoDB, MySQL, PostgreSQL
+DevOps:      Docker, CI/CD, GitHub Actions
+Tools:       Git, Postman, VS Code
+```
+
+## 🎯 **Featured Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 **ERP System**
+```javascript
+{
+  "tech": ["React", "Node.js", "MongoDB"],
+  "features": ["RBAC", "Inventory", "Payroll"],
+  "status": "Completed ✅"
+}
+```
+
+</td>
+<td width="50%">
+
+### 🎓 **LMS Platform**
+```javascript
+{
+  "tech": ["Next.js", "MongoDB", "Tailwind"],
+  "features": ["Courses", "Quizzes", "Tracking"],
+  "status": "In Progress 🔄"
+}
+```
+
+</td>
+</tr>
+</table>
+
+## 📈 **GitHub Pulse**
+
+<div align="center">
+
+```python
+# My GitHub Activity
+while True:
+    code()
+    commit()
+    deploy()
+    repeat()
+```
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981)
+
+</div>
+
+## 🌟 **Quick Facts**
+
+```yaml
+name: "Syed Muhammad Fahad"
+location: "Pakistan"
+education: "BS Computer Science (5th Sem)"
+focus: 
+  - "Web Development"
+  - "Database Design"
+  - "System Architecture"
+hobbies:
+  - "Coding Challenges"
+  - "Open Source"
+  - "Tech Blogs"
+```
+
+## 📬 **Connect With Me**
+
+<div align="center">
+
+```bash
+# Let's build something awesome together!
+$ git clone https://github.com/smfahad19
+$ cd amazing-project
+$ npm start
+```
+
+<!-- Contact Terminal -->
+<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; font-family: monospace; margin: 20px 0;">
+
+```terminal
+$ ./connect --with fahad
+👉 GitHub:   https://github.com/smfahad19
+👉 LinkedIn: https://linkedin.com/in/syed-muhammad-fahad-472490285
+👉 Email:    syedfahad305171@gmail.com
+```
 
 </div>
 
@@ -26,114 +137,39 @@
 
 ---
 
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** specializing in **MERN stack**. Currently pursuing Computer Science (5th semester) with hands-on experience in building web applications.
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<!-- Tech Stack Icons with Hover Animation -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-</div>
-
-<div style="transition: all 0.3s ease;">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
-</div>
-
-</div>
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats with Fade-in Animation -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; transition: transform 0.3s;" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; transition: transform 0.3s;" />
-
-</div>
-
-</div>
-
-## 💼 Projects
-
-### 🔧 **ERP Modules**
-- Inventory & Employee Management
-- Role-Based Access Control (RBAC)
-
-### 🎓 **Learning Management System**
-- Course Management
-- Progress Tracking
-
-### 🛒 **E-commerce Platform**
-- Product Catalog
-- Shopping Cart System
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<p style="font-size: 18px; margin: 20px 0;">Always open to discussing new projects and opportunities!</p>
-
-<!-- Animated Contact Section -->
-<div style="background: linear-gradient(45deg, #10B981, #3B82F6); padding: 20px; border-radius: 15px; margin: 20px auto; max-width: 500px; transition: transform 0.3s;">
-  <h3 style="color: white; margin: 0;">📧 syedfahad305171@gmail.com</h3>
-</div>
-
-</div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-
-**Thanks for visiting!** ✨
+**⚡ Code • Create • Innovate**
 
 </div>
 
 <style>
-  div:hover {
-    transform: translateY(-5px);
-  }
-  
-  img:hover {
-    transform: scale(1.1);
-    filter: brightness(1.1);
-  }
-  
-  a:hover {
-    transform: scale(1.05);
-  }
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+div:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+
+td {
+  background: #1a1a1a;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  transition: all 0.3s ease;
+}
+
+td:hover {
+  border-color: #10B981;
+  box-shadow: 0 5px 15px rgba(16, 185, 129, 0.2);
+}
 </style>
