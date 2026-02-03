@@ -1,175 +1,155 @@
-# 🚀 Syed Muhammad Fahad
+# Syed Muhammad Fahad
 
 <div align="center">
-
-<!-- Animated Banner -->
-<div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; animation: gradient 3s ease infinite; background-size: 400% 400%;">
   
-```javascript
-const developer = {
-  name: "Syed Muhammad Fahad",
-  role: "Full Stack Developer",
-  stack: ["MERN", "Docker", "MySQL"],
-  status: "Building amazing things 🚀"
-};
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge)](https://github.com/smfahad19)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:syedfahad305171@gmail.com)
 
-</div>
-
-<!-- Profile Links -->
-<div style="display: flex; justify-content: center; gap: 15px; margin: 30px 0;">
-
-```markdown
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-000?style=flat&logo=github)](https://github.com/smfahad19)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat&logo=gmail)](mailto:syedfahad305171@gmail.com)
-```
-
-</div>
-
-</div>
-
-## 📍 **Currently**
-- 🎓 5th Semester Computer Science Student
-- 💻 Full Stack Developer (MERN Specialist)
-- 🐳 DevOps Enthusiast
-- 🔥 Building real-world projects
-
-## ⚡ **Tech Arsenal**
-
-```bash
-Frontend:    React, Next.js, Tailwind CSS, Redux
-Backend:     Node.js, Express.js, Python, Flask
-Database:    MongoDB, MySQL, PostgreSQL
-DevOps:      Docker, CI/CD, GitHub Actions
-Tools:       Git, Postman, VS Code
-```
-
-## 🎯 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 **ERP System**
-```javascript
-{
-  "tech": ["React", "Node.js", "MongoDB"],
-  "features": ["RBAC", "Inventory", "Payroll"],
-  "status": "Completed ✅"
-}
-```
-
-</td>
-<td width="50%">
-
-### 🎓 **LMS Platform**
-```javascript
-{
-  "tech": ["Next.js", "MongoDB", "Tailwind"],
-  "features": ["Courses", "Quizzes", "Tracking"],
-  "status": "In Progress 🔄"
-}
-```
-
-</td>
-</tr>
-</table>
-
-## 📈 **GitHub Pulse**
-
-<div align="center">
-
-```python
-# My GitHub Activity
-while True:
-    code()
-    commit()
-    deploy()
-    repeat()
-```
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981)
-
-</div>
-
-## 🌟 **Quick Facts**
-
-```yaml
-name: "Syed Muhammad Fahad"
-location: "Pakistan"
-education: "BS Computer Science (5th Sem)"
-focus: 
-  - "Web Development"
-  - "Database Design"
-  - "System Architecture"
-hobbies:
-  - "Coding Challenges"
-  - "Open Source"
-  - "Tech Blogs"
-```
-
-## 📬 **Connect With Me**
-
-<div align="center">
-
-```bash
-# Let's build something awesome together!
-$ git clone https://github.com/smfahad19
-$ cd amazing-project
-$ npm start
-```
-
-<!-- Contact Terminal -->
-<div style="background: #1a1a1a; padding: 20px; border-radius: 10px; font-family: monospace; margin: 20px 0;">
-
-```terminal
-$ ./connect --with fahad
-👉 GitHub:   https://github.com/smfahad19
-👉 LinkedIn: https://linkedin.com/in/syed-muhammad-fahad-472490285
-👉 Email:    syedfahad305171@gmail.com
-```
-
-</div>
+## Full Stack Developer | MERN Stack Specialist | DevOps Enthusiast
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 Professional Summary
 
-**⚡ Code • Create • Innovate**
+Computer Science undergraduate with strong expertise in full-stack web development using MERN stack. Experienced in building scalable applications with modern architectures and implementing DevOps practices for efficient deployment.
+
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks:** React.js, Next.js
+- **UI Libraries:** Tailwind CSS, Bootstrap, Material-UI
+- **State Management:** Redux, Context API
+- **Mobile:** Flutter, Dart
+
+### **Backend Development**
+- **Server-Side:** Node.js, Express.js
+- **Python:** Flask, Django
+- **API Development:** RESTful APIs, GraphQL
+- **Authentication:** JWT, OAuth 2.0
+
+### **Databases**
+- **NoSQL:** MongoDB, Mongoose ODM
+- **SQL:** MySQL, PostgreSQL
+- **Caching:** Redis
+
+### **DevOps & Cloud**
+- **Containerization:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions, Jenkins
+- **Version Control:** Git, GitHub
+- **Cloud Platforms:** AWS (EC2, S3), Vercel, Netlify
+- **Web Servers:** Nginx, PM2
+
+## 💼 Project Experience
+
+### **Enterprise Resource Planning (ERP) System**
+*Full Stack MERN Application*
+- Developed inventory management and employee management modules
+- Implemented Role-Based Access Control (RBAC) for multi-level user permissions
+- Built real-time dashboard with analytics and reporting features
+- Integrated payroll processing system with automated calculations
+- **Technologies:** React, Node.js, Express, MongoDB, Redux, Tailwind CSS
+
+### **Learning Management System (LMS)**
+*Next.js + MongoDB Application*
+- Created course management platform with video streaming capabilities
+- Implemented student progress tracking and performance analytics
+- Developed quiz system with automated grading
+- Built certificate generation feature for course completion
+- **Technologies:** Next.js, MongoDB, Tailwind CSS, Chart.js
+
+### **E-commerce Platform**
+*React + Node.js Application*
+- Developed product catalog with advanced filtering and search functionality
+- Implemented shopping cart with persistent storage
+- Integrated payment gateway for secure transactions
+- Built admin dashboard for order and inventory management
+- **Technologies:** React, Node.js, Express, MongoDB, Stripe API
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+*Currently in 5th Semester*  
+- **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Web Development
+- **CGPA:** 3.6/4.0
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=default&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=default&hide_border=true)
 
 </div>
 
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
+## 🔧 Technical Proficiencies
 
-div:hover {
-  transform: translateY(-2px);
-  transition: transform 0.2s ease;
-}
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, Next.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python, Flask, REST APIs, Socket.io |
+| **Databases** | MongoDB, MySQL, PostgreSQL, Redis |
+| **DevOps** | Docker, CI/CD, Nginx, PM2, AWS EC2, Git |
+| **Tools** | VS Code, Postman, Git, GitHub, Figma, Jira |
 
-table {
-  border-collapse: separate;
-  border-spacing: 15px;
-}
+## 📱 Key Projects
 
-td {
-  background: #1a1a1a;
-  padding: 20px;
-  border-radius: 10px;
-  border: 1px solid #333;
-  transition: all 0.3s ease;
-}
+### **Inventory Management System**
+- **Role:** Full Stack Developer
+- **Description:** Developed comprehensive inventory tracking system with real-time updates
+- **Features:** Barcode scanning, stock alerts, supplier management, reporting
+- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
-td:hover {
-  border-color: #10B981;
-  box-shadow: 0 5px 15px rgba(16, 185, 129, 0.2);
-}
-</style>
+### **Student Portal**
+- **Role:** Frontend Developer
+- **Description:** Built student portal for course registration and academic tracking
+- **Features:** Course catalog, grade tracking, academic calendar, notifications
+- **Tech Stack:** React, Redux, Material-UI, Node.js
+
+### **API Integration Platform**
+- **Role:** Backend Developer
+- **Description:** Created middleware for integrating multiple third-party APIs
+- **Features:** Rate limiting, caching, error handling, logging
+- **Tech Stack:** Node.js, Express, Redis, MongoDB
+
+## 🏆 Certifications
+
+- **MERN Stack Development** - Udemy
+- **Docker for Developers** - Coursera
+- **AWS Fundamentals** - Amazon Web Services
+- **JavaScript Algorithms and Data Structures** - freeCodeCamp
+
+## 📚 Currently Learning
+
+- **Advanced:** Microservices Architecture, Kubernetes
+- **Cloud:** AWS Services (Lambda, S3, RDS)
+- **DevOps:** Infrastructure as Code (Terraform)
+- **Frontend:** Advanced React Patterns, Web Performance Optimization
+
+## 🌟 Professional Strengths
+
+- **Problem Solving:** Strong analytical skills with ability to troubleshoot complex issues
+- **Adaptability:** Quick learner with ability to adapt to new technologies
+- **Collaboration:** Experience working in agile teams with version control
+- **Communication:** Clear documentation and effective team communication
+- **Attention to Detail:** Focus on code quality and user experience
+
+## 📫 Contact Information
+
+- **Email:** [syedfahad305171@gmail.com](mailto:syedfahad305171@gmail.com)
+- **GitHub:** [github.com/smfahad19](https://github.com/smfahad19)
+- **LinkedIn:** [linkedin.com/in/syed-muhammad-fahad-472490285](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
+- **Portfolio:** [syedfahad.netlify.app](https://syedfahad.netlify.app/)
+
+---
+
+<div align="center">
+  
+*"Clean code is not written by following rules. It's written by experience."*  
+**Open to opportunities and collaborations!**
+
+</div>
