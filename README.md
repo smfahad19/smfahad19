@@ -10,13 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;Senior+Full+Stack+%26+DevOps+Engineer+;AWS+EC2+%26+Cloud+Infrastructure+Expert+☁️;4%2B+Years+Production+Experience+🏭;MERN+%7C+Microservices+%7C+Scalable+Architecture+🛠️" alt="Typing SVG" />
 </p>
 
-<!-- AWS EC2 & DevOps Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-EC2-Expert-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
-  <img src="https://img.shields.io/badge/Docker-Kubernetes-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker K8s"/>
-  <img src="https://img.shields.io/badge/CI/CD-Expert-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-Expert-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN"/>
-</div>
 
 <!-- GitHub Stats with Graphs -->
 <div align="center">
