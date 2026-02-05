@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;Senior+Full+Stack+%26+DevOps+Engineer+;AWS+EC2+%26+Cloud+Infrastructure+Expert+☁️;1%2BYear+Production+Experience+🏭;MERN+%7C+Microservices+%7C+Scalable+Architecture+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;junior+Full+Stack+%26+DevOps+Engineer+;AWS+EC2+%26+Cloud+Infrastructure+Expert+☁️;1%2BYear+Production+Experience+🏭;MERN+%7C+Microservices+%7C+Scalable+Architecture+🛠️" alt="Typing SVG" />
 </p>
 
 
