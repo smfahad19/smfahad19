@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=220&section=header&text=Syed%20Muhammad%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior+Full+Stack+%7C+DevOps+%7C+AWS+EC2+Expert&descAlignY=65&descSize=25&descColor=FF9900" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=220&section=header&text=Syed%20Muhammad%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior+Full+Stack+%7C+DevOps+%7C+AWS+EC2+Expert&descAlignY=65&descSize=25&descColor=FF9900" alt="Header"/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -115,8 +115,8 @@
 
 <div align="center">
 
-### **🚀 Senior Full Stack & DevOps Engineer**
-**Itsolera** | *2024 - Present*  
+### **🚀 Junior Full Stack & DevOps Engineer**
+**Itsolera** | *2026 - Present*  
 📍 Remote | 🔄 Full-time
 
 > **DevOps & CI/CD Implementation:**
