@@ -1,4 +1,4 @@
-#  **Syed Muhammad Fahad - Senior Full Stack Developer | DevOps Engineer | MERN Specialist**
+#  **Syed Muhammad Fahad - Junior Full Stack Developer | DevOps Engineer | MERN Specialist**
 
 <div align="center">
 
