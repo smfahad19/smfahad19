@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;Senior+Full+Stack+%26+DevOps+Engineer+;AWS+EC2+%26+Cloud+Infrastructure+Expert+☁️;4%2B+Years+Production+Experience+🏭;MERN+%7C+Microservices+%7C+Scalable+Architecture+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;Senior+Full+Stack+%26+DevOps+Engineer+;AWS+EC2+%26+Cloud+Infrastructure+Expert+☁️;1%2BYear+Production+Experience+🏭;MERN+%7C+Microservices+%7C+Scalable+Architecture+🛠️" alt="Typing SVG" />
 </p>
 
 
@@ -17,7 +17,6 @@
   <!-- Stats Row 3 -->
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smfahad19&theme=github_dark" alt="Profile Details" height="165"/>
-    
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smfahad19&theme=github_dark" alt="Most Commit Language" height="165"/>
   </div>
 </div>
