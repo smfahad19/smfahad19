@@ -1,287 +1,137 @@
-#  **Syed Muhammad Fahad - Junior Full Stack Developer | DevOps Engineer | MERN Specialist**
-
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=220&section=header&text=Syed%20Muhammad%20Fahad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Junior+Full+Stack+%7C+DevOps+%7C+AWS+EC2+Expert&descAlignY=65&descSize=25&descColor=FF9900" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Syed%20Muhammad%20Fahad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=60&descSize=18&descColor=a78bfa" />
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&height=50&lines=Welcome+to+my+GitHub+Profile!;junior+Full+Stack+%26+DevOps+Engineer+;AWS+EC2+%26+Cloud+Infrastructure+Expert+☁️;1%2BYear+Production+Experience+🏭;MERN+%7C+Microservices+%7C+Scalable+Architecture+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Lahore+🇵🇰;MERN+Stack+%7C+Next.js+%7C+Prisma;Building+real+products+that+solve+problems" />
 </p>
 
+</div>
 
-<!-- GitHub Stats with Graphs -->
+---
+
+## 👋 About Me
+
+I'm **Syed Muhammad Fahad**, a Full Stack Developer based in **Lahore, Pakistan**, currently in my 6th semester of BS Software Engineering at **The Superior University**.
+
+I build full-stack web applications using the MERN stack and Next.js — from UI to backend APIs to database design and deployment. I've completed internships at **Itsolera** and **Ezitech Solutions**, and I'm actively working on real-world projects to sharpen my skills and grow as a developer.
+
+My focus right now is on building clean, production-ready apps and expanding into freelancing for international clients.
+
+- 🔭 Currently building: **HireUp Pakistan** — an AI-powered job portal
+- 🌱 Learning: DevOps, system design, and advanced Next.js patterns
+- 💼 Open to: Freelance projects & remote opportunities
+- 📍 Based in: Lahore, Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  
-  <!-- Stats Row 3 -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smfahad19&theme=github_dark" alt="Profile Details" height="165"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smfahad19&theme=github_dark" alt="Most Commit Language" height="165"/>
-  </div>
-</div>
 
-<!-- Activity Graph -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smfahad19&theme=github-dark&hide_border=true&bg_color=0d1117&color=FF9900&line=FF6B35&point=FFFFFF&area=true&area_color=FF990033&title_color=FFFFFF&custom_title=GitHub+Contribution+Activity&radius=16" alt="Activity Graph" width="100%"/>
-</div>
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database & ORM**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ **Technical Stack & Expertise**
+## 🚀 Projects
+
+### 🕐 SWC — Syed Watch Company
+> Full-stack e-commerce platform for a watch brand
+
+A complete online store with product management, cart, secure checkout, image uploads, and Google OAuth login. Deployed on Vercel with a PostgreSQL backend via Supabase and Prisma ORM.
+
+**Stack:** React · Redux · Express · Prisma · Supabase · Cloudinary · JWT · Google OAuth  
+[🔗 Live Demo](#) · [📂 GitHub](#)
+
+---
+
+### 📒 LedgerAI
+> AI-powered accounting web app for O-Level students
+
+Covers all seven prime books of accounts, ledger, trial balance, income statement, and a bad debts module. AI assists with transaction entry so students can learn by doing.
+
+**Stack:** React · Node.js · Express · MongoDB · AI Integration  
+[🔗 Live Demo](#) · [📂 GitHub](#)
+
+---
+
+### 💼 HireUp Pakistan
+> AI-powered job portal built for Pakistan's job market
+
+Connects job seekers and employers across Lahore and Punjab with AI-assisted resume screening, smart job matching, and a Python-based resume analyzer.
+
+**Stack:** Next.js · Node.js · Express · MongoDB · Groq API · Python  
+[🔗 Live Demo](#) · [📂 GitHub](#)
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — Itsolera *(2025)*
+- Worked on production-level MERN stack features
+- Collaborated in an agile team environment
+- Contributed to frontend UI and backend API development
+
+### Full Stack Developer Intern — Ezitech Solutions *(2024)*
+- Built and maintained web application features
+- Gained hands-on experience with REST APIs and database management
+- Participated in code reviews and sprint planning
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### **☁️ AWS EC2 & Cloud Infrastructure**
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/EC2-Instances-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EC2"/>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/VPC-Networking-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="VPC"/>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Load-Balancing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ELB"/>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Auto-Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Auto Scaling"/>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Security-Groups-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Security Groups"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
-### ** DevOps & Infrastructure**
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/>
-      <br>K8s
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
-      <br>GitHub Actions
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
-      <br>Nginx
-    </td>
-  </tr>
-</table>
+<br/>
 
-### ** Full Stack Development**
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
-      <br>Redux
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smfahad19&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## 🏢 **Professional Journey**
+## 📬 Let's Connect
 
 <div align="center">
 
-### **🚀 Junior Full Stack & DevOps Engineer**
-**Itsolera** | *2026 - Present*  
-📍 Remote | 🔄 Full-time
-
-> **DevOps & CI/CD Implementation:**
-> - 🐳 **Docker Containerization**: Containerized 15+ microservices applications
-> - 🔄 **Jenkins Pipelines**: Built automated CI/CD pipelines reducing deployment time by 80%
-> - 📊 **Monitoring Setup**: Configured CloudWatch alarms and dashboards
-> - 🗃️ **Database Management**: RDS instance configuration and optimization
-> - 🔧 **Infrastructure Automation**: Automated server provisioning with scripts
-
-> **Full Stack Development:**
-> - 🛒 **E-commerce Platform**: Built scalable marketplace with React, Node.js, MongoDB
-> - 🏦 **Fintech Application**: Secure banking system with real-time transactions
-> - 📊 **Analytics Dashboard**: Real-time data visualization with WebSockets
-
-### ** Previous Engagements**
-**Various Companies & Freelance Projects** | *2020 - 2023*
-
-> **AWS EC2 Projects:**
-> - **Web Application Hosting**: Hosted 20+ production applications on EC2
-> - **Disaster Recovery**: Implemented multi-AZ deployment for 99.99% uptime
-> - **Cost Optimization**: Reduced EC2 costs by 40% through instance right-sizing
-> - **Backup Strategies**: Automated EBS snapshots and AMI creation
-
-> **Production Deployments:**
-> - Deployed applications serving 100K+ monthly active users
-> - Implemented blue-green deployment strategies
-> - Set up monitoring and alerting systems
-> - Optimized server performance and response times
-
-### **🎓 Technical Trainer & Mentor**
-**Workshops & Bootcamps** | *2023 - Present*
-
-> **Training Topics:**
-> - AWS EC2 Fundamentals & Advanced Configuration
-> - Docker & Containerization
-> - CI/CD Pipeline Development
-> - MERN Stack Development
-> - Production Deployment Strategies
-> - Server Security & Hardening
-
-</div>
-
----
-
-<div align="center">
-
-| DevOps Skill | Proficiency | Tools & Technologies |
-|:------------|:-----------:|:-------------------|
-| **Containerization** | ⭐⭐⭐⭐⭐ | Docker, Docker Compose |
-| **Orchestration** | ⭐⭐⭐⭐ | Kubernetes Basics |
-| **CI/CD Pipelines** | ⭐⭐⭐⭐⭐ | Jenkins, GitHub Actions |
-| **Version Control** | ⭐⭐⭐⭐⭐ | Git, GitHub, GitLab |
-| **Linux Administration** | ⭐⭐⭐⭐⭐ | Ubuntu, CentOS, Shell Scripting |
-
-</div>
-
----
-
-##  **Key Production Projects on AWS EC2**
-
-<div align="center">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-
-<!-- Project 1 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px;">
-  <h3 align="center">🏢 **Enterprise HR Platform**</h3>
-  <p align="center"><strong>AWS EC2 Hosted Solution</strong></p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/EC2-Instance-FF9900?style=flat-square" alt="EC2"/>
-    <img src="https://img.shields.io/badge/ALB-Load%20Balancer-FF9900?style=flat-square" alt="ALB"/>
-    <img src="https://img.shields.io/badge/RDS-Database-527FFF?style=flat-square" alt="RDS"/>
-  </div>
-  <ul style="text-align: left;">
-    <li>✅ **Application Load Balancer** with SSL termination</li>
-    <li>✅ **RDS MySQL** with read replicas</li>
-    <li>✅ **CloudWatch monitoring** with custom metrics</li>
-  </ul>
-</div>
-
-<!-- Project 2 -->
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 20px; border-radius: 15px; border: 1px solid #30363d; width: 350px;">
-  <h3 align="center">🛍️ **E-commerce Marketplace**</h3>
-  <p align="center"><strong>Scalable Microservices</strong></p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square" alt="Docker"/>
-    <img src="https://img.shields.io/badge/EC2-Microservices-FF9900?style=flat-square" alt="Microservices"/>
-    <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square" alt="Redis"/>
-  </div>
-  <ul style="text-align: left;">
-    <li>✅ **Dockerized microservices** on EC2</li>
-    <li>✅ **MongoDB clusters** for product data</li>
-    <li>✅ **CDN integration** for static content</li>
-    <li>✅ **Real-time order tracking**</li>
-  </ul>
-</div>
-
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-fahad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedfahad.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smfahad19)
 
 </div>
 
 <div align="center">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">☁️ **AWS EC2 Optimization**</h4>
-  <p align="center">Reduced EC2 costs by <strong>40%</strong> through right-sizing and reserved instances</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🚀 **Deployment Speed**</h4>
-  <p align="center>Improved deployment time by <strong>80%</strong> with CI/CD pipelines</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">📊 **System Availability**</h4>
-  <p align="center>Achieved <strong>99.9%</strong> uptime with multi-AZ architecture</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🔒 **Security Implementation**</h4>
-  <p align="center>Zero security breaches with proper Security Groups and IAM policies</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🔄 **Auto Scaling Success**</h4>
-  <p align="center>Handled traffic spikes of <strong>10K+ concurrent users</strong> seamlessly</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); padding: 15px; border-radius: 10px; border: 1px solid #30363d; width: 300px;">
-  <h4 align="center">🐳 **Container Efficiency**</h4>
-  <p align="center>Dockerized <strong>15+ applications</strong> with 70% better resource utilization</p>
-</div>
-
-</div>
-
-</div>
-
----
-
-## 📞 **Connect With Me**
-
-<div align="center">
-
-<p>I'm passionate about building scalable applications, optimizing AWS infrastructure, and implementing robust DevOps practices. Always open to discussing exciting opportunities!</p>
-
-<a href="https://www.linkedin.com/in/syed-muhammad-fahad/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:syedfahad305171@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Discuss%20Projects-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/smfahad19" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://syedfahad.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<p align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=smfahad19&label=Profile%20Views&color=FF9900&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/smfahad19?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/smfahad19?label=Stars&style=social" alt="Stars"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
