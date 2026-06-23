@@ -68,7 +68,7 @@ My focus right now is on building clean, production-ready apps and expanding int
 A complete online store with product management, cart, secure checkout, image uploads, and Google OAuth login. Deployed on Vercel with a PostgreSQL backend via Supabase and Prisma ORM.
 
 **Stack:** React · Redux · Express · Prisma · Supabase · Cloudinary · JWT · Google OAuth  
-[🔗 Live Demo](#) · [📂 GitHub](#)
+[🔗 Live Demo](https://swc-syed-watch-company.vercel.app) · [📂 GitHub](#)
 
 ---
 
@@ -125,8 +125,8 @@ Connects job seekers and employers across Lahore and Punjab with AI-assisted res
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-fahad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedfahad.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedfahad22.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smfahad19)
 
