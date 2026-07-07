@@ -1,6 +1,11 @@
-# Hi, I'm Syed Muhammad Fahad
+<div align="center">
 
-Full Stack Developer based in Lahore, Pakistan.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Syed%20Muhammad%20Fahad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Lahore,%20Pakistan&descAlignY=58&descSize=16&descColor=94a3b8" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+a+live+store+for+my+family's+50-year-old+business;Shipping+HireUp+Pakistan+solo+on+Next.js;MERN+%2B+Next.js+%2B+Prisma+%2B+PostgreSQL" />
+
+</div>
+
 6th semester, BS Software Engineering — The Superior University.
 
 I build full-stack web applications end-to-end — frontend, backend, database, and deployment. My work spans a live production e-commerce platform for my family's business, a production HR platform, and an AI-assisted job portal I'm currently building solo.
@@ -63,18 +68,19 @@ Independently built and deployed a full-stack MERN e-commerce application on Ver
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smfahad19&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smfahad19&layout=compact&theme=default&hide_border=true" height="165"/>
-
-</div>
-
----
-
 ## Contact
 
 Open to junior/mid Full Stack roles and freelance work.
-[Portfolio](https://syedfahad22.vercel.app) · [LinkedIn](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/) · [GitHub](https://github.com/smfahad19) · syedfahad305171@gmail.com
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedfahad22.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smfahad19)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+</div>
