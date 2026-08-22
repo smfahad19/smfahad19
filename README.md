@@ -1,86 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Syed%20Muhammad%20Fahad&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Lahore,%20Pakistan&descAlignY=58&descSize=16&descColor=94a3b8" />
+# Syed Muhammad Fahad
+### Full Stack Developer | MERN & Next.js
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+a+live+store+for+my+family's+50-year-old+business;Shipping+HireUp+Pakistan+solo+on+Next.js;MERN+%2B+Next.js+%2B+Prisma+%2B+PostgreSQL" />
-
-</div>
-
-6th semester, BS Software Engineering — The Superior University.
-
-I build full-stack web applications end-to-end — frontend, backend, database, and deployment. My work spans a live production e-commerce platform for my family's business, a production HR platform, and an AI-assisted job portal I'm currently building solo.
-
-**Portfolio:** [syedfahad22.vercel.app](https://syedfahad22.vercel.app)
-**LinkedIn:** [linkedin.com/in/syed-muhammad-fahad](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
-**Email:** syedfahad305171@gmail.com
-
----
-
-## Tech Stack
-
-**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Framer Motion
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-**Databases:** PostgreSQL, MongoDB, MySQL, Prisma ORM, Supabase
-**Infrastructure:** Git, Vercel, DigitalOcean, Nginx, Cloudinary
-**Mobile:** Flutter, Dart (MVVM)
-
----
-
-## Projects
-
-### Syed Watch Company (SWC)
-Live e-commerce platform built for a real, 50-year-old family business. Includes product catalog, cart, checkout, Google OAuth login, an admin dashboard, and Cloudinary-managed image handling. Originally deployed on Vercel serverless; later migrated the backend to a self-managed DigitalOcean droplet (Nginx) to resolve production scaling issues.
-
-**Stack:** React, Redux, Node.js, Prisma, PostgreSQL, Supabase, Cloudinary, Google OAuth
-**Live:** [swc-syed-watch-company.vercel.app](https://swc-syed-watch-company.vercel.app)
-
-### HireUp Pakistan
-AI-assisted job portal built solo, end-to-end, on Next.js. Custom UI built from scratch with Framer Motion animations; full ownership of architecture, backend, and deployment.
-
-**Stack:** Next.js, Framer Motion, JavaScript (ES6+), Node.js, MongoDB
-
-### LedgerAI
-AI-assisted accounting web application for O-Level students. Covers all seven prime books of accounts, ledger, trial balance, income statement, and a bad debts module.
-
-**Stack:** React, Node.js, Express, MongoDB
-
-### PitchNest
-University project — a startup-pitch platform. Flutter/Dart frontend (MVVM architecture) with a full Node.js/Express/MongoDB backend for pitch submission, browsing, and authentication.
-
-**Stack:** Flutter, Dart, Node.js, Express, MongoDB
-
-### Quick Stay
-Hotel booking application with search, listing, and reservation management.
-
-**Stack:** React, Node.js, Express, MongoDB
-
----
-
-## Experience
-
-**Full Stack Developer — Ezitech Solutions**
-*Oct 2025 – Jan 2026*
-Built backend modules and secure APIs for Talent-for-HR, a production HR assessment platform used by real clients. Designed the HR Assessment Creation Module and role-based assessment retrieval system from scratch. Implemented JWT authentication and role-based access control on MySQL, and led PR reviews across sprints.
-
-**Full Stack Developer Intern — Itsolera**
-*Jan 2026 – Mar 2026*
-Independently built and deployed a full-stack MERN e-commerce application on Vercel, owning both frontend and backend delivery. Designed and integrated REST APIs with a modular Node.js/Express backend, and managed the Git workflow across the team.
-
----
-
-## Contact
-
-Open to junior/mid Full Stack roles and freelance work.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedfahad22.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smfahad19)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedfahad305171@gmail.com)
+
+---
 
 </div>
 
+## 📌 About Me
+
+Full Stack Developer with hands-on production experience in building, scaling, and deploying web & mobile applications using **React.js, Next.js, Node.js, Express, PostgreSQL, and MongoDB**. 
+
+- 🎓 **Education:** BS Software Engineering (6th Semester) — The Superior University, Lahore
+- 💼 **Experience:** Ex-Full Stack Developer Intern at **Itsolera** & **Ezitech Solutions**
+- ⚡ **Core Specialties:** Real-time WebSockets, Event-Driven Webhooks, AI Integrations (Google Gemini API), REST APIs, and Mobile Apps (Flutter)
+
+---
+
+## 🛠️ Technical Skills
+
+| Domain | Tech Stack & Tools |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js 14, JavaScript (ES6+), TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion |
+| **Backend & Real-Time** | Node.js, Express.js, Flask (Python), RESTful APIs, **WebSockets (Socket.io)**, **Webhooks**, JWT Auth, RBAC |
+| **Databases & ORM** | PostgreSQL, MongoDB, MySQL, Supabase, Prisma ORM, Mongoose |
+| **Mobile Development** | Flutter, Dart (MVVM Architecture, REST API Integration) |
+| **Tools & Cloud** | Google Gemini API, Git, GitHub, Vercel, DigitalOcean, Nginx, Cloudinary, OAuth 2.0 |
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 JobPortal — AI-Powered Career Platform
+> **Stack:** Next.js, PostgreSQL, Google Gemini API, Prisma ORM, Tailwind CSS
+- Architected an end-to-end AI-assisted job portal featuring automated job description generation, smart resume screening, and role-based user access.
+- Integrated **Google Gemini API** for automated candidate evaluation and job matching.
+
+### 🛍️ Syed Watch Company (SWC) — E-Commerce Platform
+> **Stack:** React.js, Node.js, Express, PostgreSQL, Prisma, Supabase, DigitalOcean (Nginx)
+- Built a live e-commerce platform for a 50-year-old family business featuring product catalog, cart management, Google OAuth 2.0, and Cloudinary media management.
+- Configured **Stripe/Payment Webhooks** for real-time inventory deduction and automated order confirmation triggers.
+
+### 🎓 LMS (Learning Management System)
+> **Stack:** MongoDB, Express.js, React.js, Node.js, WebSockets (Socket.io)
+- Developed a complete LMS with video streaming, student progress tracking, and payment gateways.
+- Implemented **WebSockets** for real-time live chat and interactive sessions between instructors and enrolled students.
+
+### 📱 PitchNest — Startup Pitching Mobile Platform
+> **Stack:** Flutter, Dart (MVVM Architecture), Node.js, Express, MongoDB
+- Engineered a full-stack mobile platform using Flutter/Dart following clean **MVVM Architecture**.
+- Built a robust Node.js/Express backend for pitch submission, user authentication, and data browsing.
+
+### 📝 Flask Blog Application
+> **Stack:** Python, Flask, SQLite / MongoDB, Jinja2 Templates
+- Built a functional full-stack blog application handling user authentication, dynamic post creation, tags, and comment workflows.
+
+---
+
+## 💼 Professional Experience
+
+#### **Full Stack Developer Intern** | *Itsolera* (Jan 2026 – Mar 2026)
+- Engineered and deployed a production-grade MERN e-commerce application on Vercel end-to-end.
+- Integrated **Webhooks** for automated asynchronous payment and order event processing.
+- Implemented **WebSockets** to handle real-time UI state updates and client synchronization.
+
+#### **Full Stack Developer Intern** | *Ezitech Solutions* (Oct 2025 – Jan 2026)
+- Developed backend modules and secure REST APIs for **Talent-for-HR**, an enterprise HR assessment platform used by live clients.
+- Engineered assessment creation modules with optimized MySQL database queries and implemented JWT authentication with RBAC.
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+
+### 📬 Let's Connect!
+Open to **Junior Full Stack / MERN / Next.js Developer** positions and high-impact freelance projects.
+
 </div>
