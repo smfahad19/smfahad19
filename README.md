@@ -10,9 +10,11 @@
 
 I build full-stack web and mobile applications end-to-end — frontend, backend, real-time engines, AI integrations, and cloud deployment. My work spans a live production e-commerce platform for my family's 50-year-old business, enterprise HR platforms, AI-assisted job portals, and real-time LMS solutions.[cite: 1]
 
-**Portfolio:** [syedfahad22.vercel.app](https://syedfahad22.vercel.app)[cite: 1]  
+## 📬 Connect with Me
 **LinkedIn:** [linkedin.com/in/syed-muhammad-fahad](https://www.linkedin.com/in/syed-muhammad-fahad-472490285/)[cite: 1]  
 **Email:** syedfahad305171@gmail.com[cite: 1]  
+**Website:** [https://syedfahad.engineer](https://syedfahad.engineer)
+
 
 ---
 
