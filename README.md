@@ -14,7 +14,6 @@
 
 Main **Lahore, Pakistan** se Full Stack Developer hoon aur BSc Software Engineering (The Superior University) kar raha hoon. Real products banata hoon: e-commerce, telemedicine, LMS aur job portal. Abhi **AI/ML** par focus hai.
 
-- 🏢 Co-founder, **NexoraX** (software house)
 - 💼 Experience: Itsolera (Intern), Ezitech Solutions
 - 🤖 Learning: Python, NumPy, Matplotlib, Pandas, next Neural Networks
 - 📍 Open to **junior / internship** roles, onsite Lahore ya remote
